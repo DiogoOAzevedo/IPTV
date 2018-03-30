@@ -39,6 +39,9 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8|User-Agent=Mozilla/5.0 (Macintosh
 #EXTINF:-1 tvg-id="sick.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICK.png" group-title=Animação, SIC K
 http://live.impresa.pt/live/sick/sick.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICM.png" group-title=Entreternimento, SIC Mulher
+http://live.impresa.pt/live/sicmul/sicmul.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
+
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png" group-title=Generalistas, TVI 
 https://video-auth2.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9MnJUMDNoR0QvRlFoV3BiNHhYL3dZUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhZDc2ZjZjLTAwMTgtNDg5MS1iZTUyLWYxYWJmMjA2YTk4ZQ==
 
