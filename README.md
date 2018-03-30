@@ -1,8 +1,9 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png" group-title=Generalistas, RTP 1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
-#EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”http://51.255.196.214/Logos/KodiPortugal/RTP2.png” group-title=Generalistas, RTP 2 
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png" group-title=Generalistas, RTP 2 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
 #EXTINF:-1 tvg-id=”rtp3.pt” tvg-logo=”"http://51.255.196.214/Logos/KodiPortugal/RTP3.png” group-title=Innformação, RTP 3 
@@ -30,11 +31,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8|User-A
 http://live.impresa.pt/live/sic/sic.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png" group-title=Innformação, SIC NOTICIAS
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+http://live.impresa.pt/live/sicnot/sicnot.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICR.png" group-title=Entreternimento,SIC RADICAL 
-http://live.impresa.pt/live/sicrad/sicrad.m3u8
+http://live.impresa.pt/live/sicrad/sicrad.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
+#EXTINF:-1 tvg-id="sick.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICK.png" group-title=Animação, SIC K
+http://live.impresa.pt/live/sick/sick.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png" group-title=Generalistas, TVI 
 https://video-auth2.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9MnJUMDNoR0QvRlFoV3BiNHhYL3dZUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhZDc2ZjZjLTAwMTgtNDg5MS1iZTUyLWYxYWJmMjA2YTk4ZQ==
