@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id=”rtp1.pt” tvg-logo=”http://51.255.196.214/Logos/KodiPortugal/RTP1.png” group-title=Generalistas, RTP 1 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png" group-title=Generalistas, RTP 1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
 #EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”http://51.255.196.214/Logos/KodiPortugal/RTP2.png” group-title=Generalistas, RTP 2 
@@ -33,5 +32,15 @@ http://live.impresa.pt/live/sic/sic.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Inte
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png" group-title=Innformação, SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png" group-title=Generalistas,TVI 
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICR.png" group-title=Entreternimento,SIC RADICAL 
+http://live.impresa.pt/live/sicrad/sicrad.m3u8
+
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png" group-title=Generalistas, TVI 
 https://video-auth2.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9MnJUMDNoR0QvRlFoV3BiNHhYL3dZUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhZDc2ZjZjLTAwMTgtNDg5MS1iZTUyLWYxYWJmMjA2YTk4ZQ==
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png" group-title=Innformação, TVI24 
+https://video-auth2.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9eElkTmVmNEJKTnN3b0JBOUVlM2FHQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJkYjk2YmIyLTY0ZjktNDFhOC04MTkzLTAwNTJhNjUwMjg4Yg==
+
+#EXTINF:-1 tvg-id="TVIREAL" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png" group-title=Entreternimento,TVI REALITY 
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDEwOjU5OjUxIEFNJmhhc2hfdmFsdWU9WWY5aENhc3YrSzRsb3laTWRXMUh2UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU1MDMwMTA4LTRlNGQtNGNiNS05MTZlLTUxNGI5YzhhMDFiMg==
