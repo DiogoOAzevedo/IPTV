@@ -37,7 +37,7 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8|User-Agent=Mozilla/5.0 (Macintosh
 http://live.impresa.pt/live/sicrad/sicrad.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
 #EXTINF:-1 tvg-id="sick.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICK.png" group-title=Animação, SIC K
-http://live.impresa.pt/live/sick/sick.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
+http://live.impresa.pt/live/sickapa/sickapa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sickapa.sapo.pt/
 
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICM.png" group-title=Entreternimento, SIC Mulher
 http://live.impresa.pt/live/sicmul/sicmul.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
