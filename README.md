@@ -30,4 +30,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8|User-A
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SIC.png" group-title=Generalistas, SIC
 http://live.impresa.pt/live/sic/sic.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://sic.sapo.pt/direto/
 
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png" group-title=Innformação, SIC NOTICIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png" group-title=Generalistas,TVI 
+https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE4IDQ6NToyNiBQTSZoYXNoX3ZhbHV1PVVFRk4yS1BPY3E3MW5ENEwrMLZVUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNjVmOGU5My0yYmEwLTQzZjEtYmExNC0zMTI1ZWNkNDQxZWM=
