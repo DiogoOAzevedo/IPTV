@@ -6,7 +6,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Age
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png" group-title=Generalistas, RTP 2 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png" group-title=Innformação, RTP 3 
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png" group-title=Innformação, group-title=Generalistas, RTP 3 
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPINT.png" group-title=Entreternimento, RTP Internacional
