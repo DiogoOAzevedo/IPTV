@@ -49,5 +49,5 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuth
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
 
 
-#EXTINF:-1 tvg-id=“CMTV.pt” tvg-logo="Correio Manha.png" group-title="PORTUGAL”,CMTV
-rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=cmtv734654 swfUrl=http://mybeststream.xyz/YmQyYjFjZDQzYTQ0MDk1MGRjMTA5NmI0/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/ live=true timeout=15
+#EXTINF:-1 tvg-id=“CMTV.pt” tvg-logo="Correio Manha.png" group-title=Nacional,CMTV
+http://mybeststream.xyz/YmQyYjFjZDQzYTQ0MDk1MGRjMTA5NmI0/jwplayer.flash.swf
