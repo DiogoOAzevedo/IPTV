@@ -23,3 +23,239 @@ ttps://video-auth5.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2Vydm
 
 
 #EXTINF:-1 tvg-id="-------" tvg-logo="https://www.thelogodb.com/images/media/logonew/trtupx1481664790.png/medium"  group-title=Indisponível, Sport TV+
+
+
+#EXTINF:-1 tvg-id="globo.br" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, Globo
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
+
+
