@@ -48,4 +48,5 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuth
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/PORTOCANAL.png"  group-title=Nacional, PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
 
-
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.winpt.com/wp-content/uploads/2012/02/disney.png"  group-title=Animação, PORTO CANAL
+http://liveitpremiun.gleeze.com:8000/live/marco/marco119.m3u8
