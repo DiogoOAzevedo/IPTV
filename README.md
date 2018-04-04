@@ -23,7 +23,7 @@ http://%22+ea+%22:8088/live/iframetvdesportoinfo/playlist.m3u8?id=97318&pk=
 
 
 #EXTINF:-1 tvg-id="-------" tvg-logo="https://www.thelogodb.com/images/media/logonew/trtupx1481664790.png/medium"  group-title=Indisponível, Sport TV+
-
+"http://104.131.180.214/stream/RSoSLPvvmZg2O54d29lBhW4oRFFAt9JQ.m3u8" 
 
 #EXTINF:-1 tvg-id="globo.br" tvg-logo="https://www.thelogodb.com/images/media/logonew/sprupu1471035443.png"  group-title=Indisponível, Globo
 
