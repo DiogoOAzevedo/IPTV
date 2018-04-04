@@ -19,7 +19,7 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8|User-Agent=Mozilla/5.0 (Macintosh
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTggMTA6NTk6NTAgQU0maGFzaF92YWx1ZT1qNTVDVko1RHc4NVN6WHZwVDdveGNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTlkMTI5YzMtYWY3Yy00Zjg3LThiYmQtZDRiYmMyNTI3YWVj
 
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/uvqwuu1436843714.png/medium"  group-title=Indisponível, CM TV
-http://"+ea+":8088/live/iframetvdesportoinfo/playlist.m3u8?id=97318&pk=
+http://%22+ea+%22:8088/live/iframetvdesportoinfo/playlist.m3u8?id=97318&pk=
 
 
 #EXTINF:-1 tvg-id="-------" tvg-logo="https://www.thelogodb.com/images/media/logonew/trtupx1481664790.png/medium"  group-title=Indisponível, Sport TV+
