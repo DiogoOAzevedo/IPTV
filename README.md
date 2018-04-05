@@ -30,8 +30,7 @@ rtmp://mcrwowza4.mcr.iol.pt/comerciallc playpath=comerciallc.sdp swfUrl="http://
 http://19573.live.streamtheworld.com/RFMAAC
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title=Radio,RADIO  ANTENA 1
-http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2)
-AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png" group-title=Radio,RADIO  ANTENA 2
 http://streaming-live.rtp.pt/liveradio/antena280a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
