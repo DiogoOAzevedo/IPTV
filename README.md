@@ -48,7 +48,7 @@ http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
 rtmp://mcrwowza3.mcr.iol.pt/smoothlc playpath=smoothlc.sdp swfUrl="http://smoothfm.iol.pt/player/player.swf?v=1.5 pageUrl="http://kodiportugal.pt
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",VODAFONE FM
-rtmp://mcrwowza5.mcr.iol.pt/vodafonelc/ playpath=vodafonelc.sdp swfUrl="http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf pageUrl="http://kodiportugal.pt
+rtmp://mcrwowza5.mcr.iol.pt/vodafonelc/playpath=vodafonelc.sdp swfUrl="http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf pageUrl="http://kodiportugal.pt
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",MEO MUSIC
 http://centova.radios.pt:8495/;listen.pls
