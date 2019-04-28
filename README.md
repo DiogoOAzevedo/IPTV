@@ -14,3 +14,6 @@ http://85.244.70.140:7000/play/a00y
 
 #EXTINF: -1 tvg-id = "sem informação" tvg-logo = " https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg " group-title = "Infantil", SIC K ´
 http://live.impresa.pt/live/sick/sick.m3u8
+
+#EXTINF: -1 tvg-id = "sem informação" tvg-logo = " http://quinto-canal.com/wp-content/uploads/2014/05/tvi24.jpg " group-title = "Informação", TVI 24 ´
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
