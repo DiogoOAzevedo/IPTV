@@ -11,3 +11,6 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 
 #EXTINF:-1 tvg-id="sem informação" tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
 http://188.83.103.117:8035/play/a01d
+
+#EXTINF:-1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil",SIC K
+http://188.83.103.117:8035/play/a01d
