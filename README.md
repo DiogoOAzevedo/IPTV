@@ -51,35 +51,29 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="Entretenimento",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="Infantil",DISNEY CHANNEL 
 http://188.83.103.117:8035/play/a01e
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNELWOW.png" group-title="PORTUGAL",DISNEY CHANNEL WOW (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2019/04/disneychannelwow-logo.jpg" group-title="Infantil",DISNEY CHANNEL WOW 
 http://188.83.103.117:8035/play/a00r
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a015
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR 
 http://188.82.107.63:8030/play/a05k
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="PORTUGAL",CARTOON NETWORK (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010-880x660.png" group-title="Infantil",CARTOON NETWORK
 http://188.82.107.63:8030/play/a05u
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" group-title="PORTUGAL",PANDA (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.zapping-tv.com/wp-content/uploads/2015/07/canal-panda.jpg" group-title="Infantil",PANDA 
 http://188.82.107.63:8030/play/a05j
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a013
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/05/Panda-Biggs.jpg" group-title="Infantil",PANDA BIGGS 
 http://188.83.103.117:8035/play/a01f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" group-title="PORTUGAL",JIMJAM (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/10/jimjam_og.png" group-title="Infantil",JIMJAM
 http://188.82.107.63:8030/play/a05l
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/nickelodeon/logo/medium_nick.jpg" group-title="Infantil",NICKELODEON
 http://85.244.70.140:7000/play/a00o
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" group-title="PORTUGAL",BABY TV (Copyright © 2019 - TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantil",BABY TV
 http://188.83.103.117:8035/play/a00z
