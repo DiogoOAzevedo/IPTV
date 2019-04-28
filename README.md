@@ -1,6 +1,5 @@
 #EXTM3U
 
-<!-- Canais da SIC -->
 #EXTINF:-1 tvg-id="livestream-5cc5e9a32fa55_html5_api" tvg-logo="https://i1.wp.com/espalhafactos.com/wp-content/uploads/2018/10/sic-logo.jpg?resize=759%2C500&ssl=1" group-title="Generalista",SIC
 https://live.impresa.pt/live/sic/sic.m3u8
 
@@ -13,13 +12,9 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-id="sem informação" tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
 http://85.244.70.140:7000/play/a00y
 
-#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Temporariamente Indesponivel", SIC K
-ttp://live.impresa.pt/live/sick/sick540p.m3u8?isnplk=10&rebase=on
-
-#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Temporariamente Indesponivel", SIC K
+#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
 http://188.83.103.117:8035/play/a01c
 
-<!-- Canais da TVI -->
 #EXTINF:-1 tvg-logo="https://pelafechadura.com/wp-content/uploads/2019/02/TVI.jpg" group-title="Generalista",TVI 
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
@@ -32,7 +27,6 @@ http://188.82.107.63:8030/play/a05o
 #EXTINF:-1 tvg-logo="https://tvi.iol.pt/img/2017/bck_tvireality.jpg" group-title="Entretenimento", TVI REALITY 
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 
-<!-- Canais da RTP -->
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
@@ -56,3 +50,36 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="Entretenimento",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2019 - TeamBlue)
+http://188.83.103.117:8035/play/a01e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNELWOW.png" group-title="PORTUGAL",DISNEY CHANNEL WOW (Copyright © 2019 - TeamBlue)
+http://188.83.103.117:8035/play/a00r
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a015
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
+http://188.82.107.63:8030/play/a05k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="PORTUGAL",CARTOON NETWORK (Copyright © 2019 - TeamBlue)
+http://188.82.107.63:8030/play/a05u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" group-title="PORTUGAL",PANDA (Copyright © 2019 - TeamBlue)
+http://188.82.107.63:8030/play/a05j
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a013
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
+http://188.83.103.117:8035/play/a01f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" group-title="PORTUGAL",JIMJAM (Copyright © 2019 - TeamBlue)
+http://188.82.107.63:8030/play/a05l
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00o
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" group-title="PORTUGAL",BABY TV (Copyright © 2019 - TeamBlue)
+http://188.83.103.117:8035/play/a00z
