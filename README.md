@@ -36,7 +36,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png?v=3&w=860" group-title="Informação",RTP 3
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="PORTUGAL",RTP MEMORIA
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="Entretenimento",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-144318101410.png?v=3&w=860" group-title="Entretenimento",RTP MADEIRA
@@ -77,3 +77,21 @@ http://85.244.70.140:7000/play/a00o
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantil",BABY TV
 http://188.83.103.117:8035/play/a00z
+
+#EXTINF:-1 tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Filmes",CINEMUNDO
+http://188.82.107.63:8030/play/a05w
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" group-title="Filmes",HOLLYWOOD
+http://188.82.107.63:8030/play/a05y
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-t5LQLvFyiUY/VZECHFhyZbI/AAAAAAABAok/roBrRzkZ6U0/s1600/FOX%2BMovies%2BStarSat.png" group-title="Filmes",FOX MOVIES
+http://188.82.107.63:8030/play/a062
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12--live-tv-watches-online.jpg" group-title="Series",FOX CRIME
+http://188.82.107.63:8030/play/a060
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" group-title="Series",AXN WHITE
+http://188.82.107.63:8030/play/a05t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" group-title="Series",AXN BLACK
+http://188.82.107.63:8030/play/a05s
