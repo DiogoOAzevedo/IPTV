@@ -8,3 +8,6 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
 
 #EXTINF:-1 tvg-id="sem informação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Entretenimento",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
+
+#EXTINF:-1 tvg-id="sem informação" tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
+http://188.83.103.117:8035/play/a01d
