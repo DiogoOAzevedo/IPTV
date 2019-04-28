@@ -64,3 +64,4 @@ rtmp://195.23.102.193/m80lc playpath=m80lc.sdp swfUrl= pageUrl="http://kodiportu
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",RADIO ZIGZAG
 http://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+
