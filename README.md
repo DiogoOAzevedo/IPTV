@@ -1,4 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SIC.png" group-title=Generalistas, SIC
-http://live.impresa.pt/live/sic/sic.m3u8
+EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://www.thelogodb.com/images/media/logonew/09mg3i1516145393.png" group-title="Generalista",[COLOR green] RTP 1 [/COLOR] https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
