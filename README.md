@@ -13,7 +13,7 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 http://85.244.70.140:7000/play/a00y
 
 #EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
-http://188.83.103.117:8035/play/a01c
+http://live.impresa.pt/live/sick/sick540p.m3u8?isnplk=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://pelafechadura.com/wp-content/uploads/2019/02/TVI.jpg" group-title="Generalista",TVI 
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
