@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
@@ -10,9 +12,8 @@ https://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://pelafechadura.com/wp-content/uploads/2019/02/TVI.jpg" group-title="Generalista",TVI 
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo ="https://www.nowo.pt/media/1315/artv_canal_black.png" group-title = "Generalista", AR TV
+#EXTINF:-1 tvg-logo ="http://directostv.teleame.com/wp-content/uploads/2016/04/ARTV-Canal-Parlamento.png" group-title = "Generalista", AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 
-#EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title = "Generalista", PORTO CANAL
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit / 537.36 (KHTML, como o Gecko) Chrome / 47.0.2526.106 Safari / 537.36 & Referer = http: //portocanal.sapo.pt/live
-
+#EXTINF: -1 tvg-logo ="http://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg" group-title = "Generalista", PORTO CANAL
+http://213.13.26.41:1935/live/portocanal/chunklist.m3u8
