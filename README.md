@@ -101,3 +101,6 @@ http://188.82.107.63:8030/play/a05t
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" group-title="Series",AXN BLACK
 http://188.82.107.63:8030/play/a05s
+
+#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACETOCA.png" tvg-id = "0" grupo-título = "Musica", TRACE TOCA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
