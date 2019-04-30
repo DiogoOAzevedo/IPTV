@@ -15,8 +15,33 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo ="https://www.nowo.pt/media/1315/artv_canal_black.png" group-title = "Generalista", AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 
+
 #EXTINF: -1 tvg-logo ="http://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg" group-title = "Generalista" group-title = "Temporariamente Indesponivel", PORTO CANAL
-http://213.13.26.41:1935/live/portocanal/chunklist.m3u8
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+http://213.13.26.13:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtsp://213.13.26.11:1935/live/portocanal
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtsp://213.13.26.13:1935/live/portocanal
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtsp://213.13.26.41:1935/live/portocanal
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtmp://213.13.26.13/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa]
+rtmp://213.13.26.41/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://kodiportugal.pt
 
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png?v=3&w=860" group-title="Informação",RTP 3
@@ -30,4 +55,3 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.zapping-tv.com/wp-content/uploads/2016/06/cmtv.jpg?fit=931%2C726" group-title="Informação",CM TV 
 http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/192
-
