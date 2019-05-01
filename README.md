@@ -46,10 +46,43 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 http://85.244.70.140:7000/play/a00y
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="Entretenimento",TVI FICÇÃO 
-http://51.255.196.214/KodiPortugalRedirectService/TVIFICCAO/streamtoken=jQMVadNeoNvpSUewlqxkLJgWSOmRlJ.php
+http://188.82.107.63:8030/play/a05o
 
 #EXTINF:-1 tvg-logo="https://tvi.iol.pt/img/2017/bck_tvireality.jpg" group-title="Entretenimento", TVI REALITY 
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tviinternacional.png" group-title="Entretenimento", TVI Internacional 
 http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=YfmJWMPPNTcyOUPvMlLTpgAcKvNZjO.php
+
+#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
+http://212.8.248.197:8080/live/sam02/sam02/919.m3u8
+
+#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
+http://tvdasogra.com:8880/live/trial/trial_231/452.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="Infantil",DISNEY CHANNEL 
+http://188.83.103.117:8035/play/a01e
+
+#EXTINF:-1 tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2019/04/disneychannelwow-logo.jpg" group-title="Infantil",DISNEY CHANNEL WOW 
+http://188.83.103.117:8035/play/a00r
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR 
+http://188.82.107.63:8030/play/a05k
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010-880x660.png" group-title="Infantil",CARTOON NETWORK
+http://188.82.107.63:8030/play/a05u
+
+#EXTINF:-1 tvg-logo="http://www.zapping-tv.com/wp-content/uploads/2015/07/canal-panda.jpg" group-title="Infantil",PANDA 
+http://188.82.107.63:8030/play/a05j
+
+#EXTINF:-1 tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/05/Panda-Biggs.jpg" group-title="Infantil",PANDA BIGGS 
+http://188.83.103.117:8035/play/a01f
+
+#EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/10/jimjam_og.png" group-title="Infantil",JIMJAM
+http://188.82.107.63:8030/play/a05l
+
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/nickelodeon/logo/medium_nick.jpg" group-title="Infantil",NICKELODEON
+http://85.244.70.140:7000/play/a00o
+
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantil",BABY TV
+http://188.83.103.117:8035/play/a00z
