@@ -39,14 +39,17 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="Entretenimento",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
-#EXTINF:-1 tvg-id="sem informação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Entretenimento",SIC Radical
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Entretenimento",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 
-#EXTINF:-1 tvg-id="sem informação" tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
+#EXTINF:-1 tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
 http://85.244.70.140:7000/play/a00y
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="Entretenimento",TVI FICÇÃO 
-http://188.82.107.63:8030/play/a05o
+http://51.255.196.214/KodiPortugalRedirectService/TVIFICCAO/streamtoken=jQMVadNeoNvpSUewlqxkLJgWSOmRlJ.php
 
 #EXTINF:-1 tvg-logo="https://tvi.iol.pt/img/2017/bck_tvireality.jpg" group-title="Entretenimento", TVI REALITY 
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tviinternacional.png" group-title="Entretenimento", TVI Internacional 
+http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=YfmJWMPPNTcyOUPvMlLTpgAcKvNZjO.php
