@@ -86,3 +86,7 @@ http://85.244.70.140:7000/play/a00o
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantil",BABY TV
 http://188.83.103.117:8035/play/a00z
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" group-title="Filmes",HOLLYWOOD
+http://tvdesporto.info/play.php?canal=hollywood&height=400&width=600
+
