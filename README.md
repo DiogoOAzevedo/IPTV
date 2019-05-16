@@ -1,5 +1,7 @@
 #EXTM3U
 
+<!--Canais Generalistas-->
+
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
@@ -15,6 +17,9 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Generalista", AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 
+
+<!--Canais de Informação-->
+
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png?v=3&w=860" group-title="Informação",RTP 3
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
 
@@ -23,6 +28,12 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
 
 #EXTINF:-1 tvg-logo="http://quinto-canal.com/wp-content/uploads/2014/05/tvi24.jpg" group-title="Informação",TVI24 
 http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="Informação",CMTV 
+http://188.93.238.153:8000/play/a05a/index.m3u8
+
+
+<!--Canais de Entretenimento-->
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="Entretenimento",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
@@ -43,7 +54,10 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.impresa.pt/sicmulher/286//assets/gfx/logo_hq_wide.png" group-title="Entretenimento",SIC Mulher
-http://85.244.70.140:7000/play/a00y
+http://188.93.238.153:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https:/https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-id="siccaras.pt" group-title="Entretenimento",SIC CARAS
+http://188.93.238.153:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="Entretenimento",TVI FICÇÃO 
 http://188.82.107.63:8030/play/a05o
@@ -54,39 +68,33 @@ http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tviinternacional.png" group-title="Entretenimento", TVI Internacional 
 http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=YfmJWMPPNTcyOUPvMlLTpgAcKvNZjO.php
 
-#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
-http://212.8.248.197:8080/live/sam02/sam02/919.m3u8
+#EXTINF:-1 tvg-logo="https://www.comunidadeculturaearte.com/wp-content/uploads/2019/03/unnamed-6-e1553866790397.jpg"  group-title="Entretenimento",CANAL Q
+http://188.93.238.153:8000/play/a045/index.m3u8
 
-#EXTINF: -1 tvg-id="sem informação" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/03/sick.jpg" group-title="Infantil", SIC K
-http://tvdasogra.com:8880/live/trial/trial_231/452.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="Infantil",DISNEY CHANNEL 
-http://188.83.103.117:8035/play/a01e
+<!--Canais de Desporto-->
 
-#EXTINF:-1 tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2019/04/disneychannelwow-logo.jpg" group-title="Infantil",DISNEY CHANNEL WOW 
-http://188.83.103.117:8035/play/a00r
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/63219/logo_sport%20tv%207.png"  group-title="Desporto",SPORT TV 1
+http://188.93.238.153:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",DISNEY JUNIOR 
-http://188.82.107.63:8030/play/a05k
+#EXTINF:-1 tvg-logo="http://payload.cargocollective.com/1/1/42932/927157/prt_1311014505.jpg"  group-title="Desporto",SPORT TV 2
+http://188.93.238.153:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010-880x660.png" group-title="Infantil",CARTOON NETWORK
-http://188.82.107.63:8030/play/a05u
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/1/42932/927162/prt_1311014925.jpg"  group-title="Desporto",SPORT TV 3
+http://188.93.238.153:8000/play/a06i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.zapping-tv.com/wp-content/uploads/2015/07/canal-panda.jpg" group-title="Infantil",PANDA 
-http://188.82.107.63:8030/play/a05j
+#EXTINF:-1 tvg-logo="http://portugalgolfshow.com/wp-content/uploads/2016/05/vtxqpw1436886719.png"  group-title="Desporto",SPORT TV 4
+http://188.93.238.153:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/05/Panda-Biggs.jpg" group-title="Infantil",PANDA BIGGS 
-http://188.83.103.117:8035/play/a01f
+#EXTINF:-1 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg"  group-title="Desporto",SPORT TV 5
+http://188.93.238.153:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/10/jimjam_og.png" group-title="Infantil",JIMJAM
-http://188.82.107.63:8030/play/a05l
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg"  group-title="Desporto",BTV
+http://188.93.238.153:8000/play/a051/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/nickelodeon/logo/medium_nick.jpg" group-title="Infantil",NICKELODEON
-http://85.244.70.140:7000/play/a00o
+#EXTINF:-1 tvg-logo="https://maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/53aaacd40cf2381688603a70/960"  group-title="Desporto",SPORTING TV
+http://188.93.238.153:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantil",BABY TV
-http://188.83.103.117:8035/play/a00z
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" group-title="Filmes",HOLLYWOOD
-http://tvdesporto.info/play.php?canal=hollywood&height=400&width=600
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png"  group-title="Desporto",A BOLA TV
+http://188.93.238.153:8000/play/a04t/index.m3u8
 
