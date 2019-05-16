@@ -1,6 +1,6 @@
 #EXTM3U
 
-<!--Canais Generalistas-->
+
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
@@ -18,7 +18,7 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 
 
-<!--Canais de Informação-->
+
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png?v=3&w=860" group-title="Informação",RTP 3
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
@@ -33,7 +33,7 @@ http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 http://188.93.238.153:8000/play/a05a/index.m3u8
 
 
-<!--Canais de Entretenimento-->
+
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="Entretenimento",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
@@ -72,7 +72,7 @@ http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=Y
 http://188.93.238.153:8000/play/a045/index.m3u8
 
 
-<!--Canais de Desporto-->
+
 
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/63219/logo_sport%20tv%207.png"  group-title="Desporto",SPORT TV 1
 http://188.93.238.153:8000/play/a023/index.m3u8
@@ -98,3 +98,20 @@ http://188.93.238.153:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png"  group-title="Desporto",A BOLA TV
 http://188.93.238.153:8000/play/a04t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Desporto",ELEVEN SPORTS 1
+http://188.93.238.153:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="Desporto",ELEVEN SPORTS 2
+http://188.93.238.153:8000/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266431.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="Desporto",ELEVEN SPORTS 3
+http://188.93.238.153:8000/play/a088/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783479_logo_eleven_sports_4.png" group-title="Desporto",ELEVEN SPORTS 4
+http://188.93.238.153:8000/play/a08h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Desporto",ELEVEN SPORTS 5
+http://188.93.238.153:8000/play/a08i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Desporto",ELEVEN SPORTS 6
+http://188.93.238.153:8000/play/a089/index.m3u8
