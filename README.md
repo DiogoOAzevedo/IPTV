@@ -77,6 +77,9 @@ http://188.93.238.153:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" group-title="Entretenimento",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
 
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2016/04/MTV-Logo.jpg" group-title="Entretenimento",MTV PORTUGAL
+http://188.93.238.153:8000/play/a00s/index.m3u8
+
 
 
 
@@ -133,7 +136,6 @@ http://188.93.238.153:8000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jorgesalvador.files.wordpress.com/2012/11/kombatsportlogo.png" group-title="Desporto",KOMBAT SPORT
 http://188.93.238.153:8000/play/a05u/index.m3u8
-
 
 
 
@@ -220,3 +222,109 @@ http://188.93.238.153:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="Cinema",SYFY
 http://188.93.238.153:8000/play/a06n/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/discovery-corporate-new-logo.jpg?w=1000" group-title="Documentarios",DISCOVERY
+http://188.93.238.153:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="Documentarios",HISTORIA
+http://188.93.238.153:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseia.jpg" group-title="Documentarios",ODISSEIA
+http://188.93.238.153:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.greyboxcreative.com/wp-content/uploads/2015/07/National-Geographic-logo-768x384.jpg" group-title="Documentarios",NATIONAL GEOGRAPHIC
+http://188.93.238.153:8000/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79MrcMepj4fnV0aaam0uq0P3zVDDfjqgirC9A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Documentarios",NATIONAL GEOGRAPHIC WILD
+http://188.93.238.153:8000/play/a05y/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="Musica",VH1 EUROPE
+http://94.46.222.90:2113
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" group-title="Musica",MTV BASE
+http://94.46.222.90:2106
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" group-title="Musica",MTV CLASSIC
+http://94.46.222.90:2107
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVDANCE.png" group-title="Musica",MTV DANCE
+http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" group-title="Musica",MTV HITS
+http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" group-title="Musica",MTV ROCKS
+http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACEURBAN.png" group-title="Musica",TRACE URBAN
+http://188.93.238.153:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMTOP.png" group-title="Musica",MCM TOP
+http://ott-cdn.ucom.am/s49/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMPOP.png" group-title="Musica",MCM POP
+http://188.93.238.153:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFROMUSIC.png" group-title="Musica",AFRO MUSIC
+http://188.93.238.153:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" group-title="Musica",MEZZO
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACETOCA.png" group-title="Musica",TRACE TOCA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Radio",RADIO COMERCIAL
+http://mcrwowza4.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png" group-title="Radio",RADIO RFM
+http://19573.live.streamtheworld.com/RFMAAC
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="Radio",RADIO  ANTENA 1
+http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png" group-title="Radio",RADIO  ANTENA 2
+http://streaming-live.rtp.pt/liveradio/antena280a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="Radio",RADIO  ANTENA 3
+http://streaming-live.rtp.pt/liveradio/antena380a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+
+#EXTINF:-1 tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png" group-title="Radio",TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:-1 tvg-logo="https://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png" group-title="Radio",RADIO RR
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg" group-title="Radio",VODAFONE FM
+http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png" group-title="Radio",MEO MUSIC
+http://centova.radios.pt:8495/;listen.pls
+
+#EXTINF:-1 tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png" group-title="Radio",RADIO CIDADE FM
+http://mcrwowza4.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Radio",RADIO MEGA HITS
+http://19553.live.streamtheworld.com:80/MEGA_HITS_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png" group-title="Radio",RADIO M80
+http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png" group-title="Radio",RADIO ZIGZAG
+http://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+
+#EXTINF:-1  tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png" group-title="Radio",RADIO NOVA ERA
+http://centova.radios.pt:9478/
+
+#EXTINF:-1 tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png" group-title="Radio",RADIO CANCAO NOVA
+http://rdportugal-lh.akamaihd.net/i/rdportugal_1@191321/index_1_a-p.m3u8?sd=10&rebase=on
