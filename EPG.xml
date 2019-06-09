@@ -1,27 +1,775 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channelList>
-	<channel>
-		<meoCode>RTP1</meoCode>
-		<tvg-id>rtp1.pt</tvg-id>
-		<name>RTP 1</name>
-	</channel>
-	<channel>
-		<meoCode>RTP2</meoCode>
-		<tvg-id>rtp2.pt</tvg-id>
-		<name>RTP 2</name>
-	</channel>
-	<channel>
-		<meoCode>SIC</meoCode>
-		<tvg-id>sic.pt</tvg-id>
-		<name>SIC</name>
-	</channel>
-	<channel>
-		<meoCode>TVI</meoCode>
-		<tvg-id>TVI.pt</tvg-id>
-		<name>TVI</name>
-	</channel>
-	<channel>
-		<meoCode>ARTV</meoCode>
-		<tvg-id>ARTV.pt</tvg-id>
-		<name>ARTV</name>
-	</channel>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="rtp1.pt">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="rtp2.pt">
+    <display-name lang="en">RTP2</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+    <channel id="sic.pt">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="TVI.pt">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="ARTV.pt">
+    <display-name lang="pt">PARLAMENTO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+
+  
+  <programme start="20190609013200" stop="20190609022200" channel="rtp1.pt">
+    <title lang="en">A3.30</title>
+    <desc lang="en">Um top semanal com as escolhas musicais dos ouvintes da Antena 3</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609022200" stop="20190609031000" channel="rtp1.pt">
+    <title lang="en">Vida Selvagem no Rio Africano</title>
+    <desc lang="en">Rio Luangwa</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609031000" stop="20190609061000" channel="rtp1.pt">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609061000" stop="20190609063000" channel="rtp1.pt">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609063000" stop="20190609063100" channel="rtp1.pt">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609063100" stop="20190609064300" channel="rtp1.pt">
+    <title lang="en">Conta Um Conto</title>
+    <desc lang="en">Vinte contos que promovem a Gentileza, a Inclusão e a Diversidade!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609064300" stop="20190609065000" channel="rtp1.pt">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609065000" stop="20190609065300" channel="rtp1.pt">
+    <title lang="en">Os Pequenos Contos de Wismo</title>
+    <desc lang="en">Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609065300" stop="20190609070800" channel="rtp1.pt">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609070800" stop="20190609072000" channel="rtp1.pt">
+    <title lang="en">Gawayn</title>
+    <desc lang="en">Homens valentes querem salvar a princesa Gwendolina!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609072000" stop="20190609073300" channel="rtp1.pt">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609073300" stop="20190609080000" channel="rtp1.pt">
+    <title lang="en">Nutri Ventures - Em Busca dos 7 Reinos</title>
+    <desc lang="en">Nutris são as aventuras de 4 amigos no reino da nutrição</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609080000" stop="20190609103000" channel="rtp1.pt">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609103000" stop="20190609113600" channel="rtp1.pt">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">Lisboa: Solenidade de Pentecostes</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609113600" stop="20190609121300" channel="rtp1.pt">
+    <title lang="en">Paraíso Verde</title>
+    <desc lang="en">Indonésia - As Ilhas Selvagens</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609121300" stop="20190609130000" channel="rtp1.pt">
+    <title lang="en">As Receitas Lá de Casa</title>
+    <desc lang="en">Duas duplas de amigos ou familiares defrontam-se para provarem que são absolutamente imbatíveis na cozinha</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609130000" stop="20190609142100" channel="rtp1.pt">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609142100" stop="20190609152600" channel="rtp1.pt">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Sea</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609152600" stop="20190609161300" channel="rtp1.pt">
+    <title lang="en">Portugueses pelo Mundo</title>
+    <desc lang="en">Mar</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609161300" stop="20190609180800" channel="rtp1.pt">
+    <title lang="en">Futsal: Liga SportZone 2018/2019</title>
+    <desc lang="en">Benfica x Sporting</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609180800" stop="20190609190000" channel="rtp1.pt">
+    <title lang="en">Futebol: Final Liga das Nações Portugal x Holanda - Pré-Match</title>
+    <desc lang="en">Quem sairá vencedor da edição inaugural da Liga das Nações?</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609190000" stop="20190609193300" channel="rtp1.pt">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609193300" stop="20190609214300" channel="rtp1.pt">
+    <title lang="en">Futebol: Final Liga das Nações Portugal x Holanda</title>
+    <desc lang="en">Quem sairá vencedor da edição inaugural da Liga das Nações?</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609214300" stop="20190609220000" channel="rtp1.pt">
+    <title lang="en">Futebol: Liga das Nações - Cerimónia de Entrega do Troféu</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609220000" stop="20190610005200" channel="rtp1.pt">
+    <title lang="en">La Banda</title>
+    <desc lang="en">Vamos descobrir a nova banda de sucesso em Portugal e no mundo!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610005200" stop="20190610025800" channel="rtp1.pt">
+    <title lang="en">Verdade</title>
+    <desc lang="en">Conspiração e poder</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610025800" stop="20190610032800" channel="rtp1.pt">
+    <title lang="en">Ciclismo: 71ª Edição Critérium du Dauphiné - Resumos</title>
+    <desc lang="en">Tudo sobre a 71ª edição desta prova mítica</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610032800" stop="20190610061400" channel="rtp1.pt">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610061400" stop="20190610063000" channel="rtp1.pt">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP 3</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610063000" stop="20190610103000" channel="rtp1.pt">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610103000" stop="20190610130000" channel="rtp1.pt">
+    <title lang="en">Cerimónias Oficiais 10 de Junho</title>
+    <desc lang="en">Celebração do Dia de Portugal, de Camões e das Comunidades Portuguesas</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610130000" stop="20190610142100" channel="rtp1.pt">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610142100" stop="20190610191100" channel="rtp1.pt">
+    <title lang="en">Portugal no Mundo</title>
+    <desc lang="en">Cabo Verde</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610191100" stop="20190610195900" channel="rtp1.pt">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610195900" stop="20190610210800" channel="rtp1.pt">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610210800" stop="20190610215400" channel="rtp1.pt">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610215400" stop="20190610215700" channel="rtp1.pt">
+    <title lang="en">Marchas Populares</title>
+    <desc lang="en">A marcha é linda!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610215700" stop="20190610220000" channel="rtp1.pt">
+    <title lang="en">Marchas Populares</title>
+    <desc lang="en">A marcha é linda!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610220000" stop="20190610235500" channel="rtp1.pt">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Portugal Antes de Tudo</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610235500" stop="20190611005200" channel="rtp1.pt">
+    <title lang="en">Marte</title>
+    <desc lang="en">A vida em Marte vai ser um mundo de dor</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609002000" stop="20190609011200" channel="rtp2.pt">
+    <title lang="en">Renascer das Cinzas: Salvar os Cavalos do Rei</title>
+    <desc lang="en">Os magníficos Trakehner, considerados por muitos como mais importante raça de cavalos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609011200" stop="20190609025100" channel="rtp2.pt">
+    <title lang="en">Tarrafal</title>
+    <desc lang="en">Realizado por Pedro Neves, Tarrafal é uma viagem intensa pelo passado e pelo futuro do Bairro S. João de Deus, um documento vivo da história recente da cidade do Porto</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609025100" stop="20190609070000" channel="rtp2.pt">
+    <title lang="en">Euronews</title>
+    <desc lang="en">No Euronews, saiba tudo o que se passa na Europa e no mundo</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609070000" stop="20190609075500" channel="rtp2.pt">
+    <title lang="en">Euronews</title>
+    <desc lang="en">No Euronews, saiba tudo o que se passa na Europa e no mundo</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609075500" stop="20190609075600" channel="rtp2.pt">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609075600" stop="20190609075700" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609075700" stop="20190609082100" channel="rtp2.pt">
+    <title lang="en">As Aventuras do Urso Paddington</title>
+    <desc lang="en">O Urso Paddington não procura a aventura mas parece que a aventura o procura a ele!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609082100" stop="20190609083200" channel="rtp2.pt">
+    <title lang="en">Ollie e Moon</title>
+    <desc lang="en">Ollie e Moon são dois gatos muito amigos que vivem e aprendem a aceitar as diferenças ao percorrer o mundo em grandes e divertiras aventuras</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609083200" stop="20190609084000" channel="rtp2.pt">
+    <title lang="en">A Escola dos Rugidos</title>
+    <desc lang="en">Na Escola dos Rugidos os nossos amigos aprendem muitas coisas divertidas mas também grandes lições de vida!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609084000" stop="20190609085300" channel="rtp2.pt">
+    <title lang="en">O Pátio</title>
+    <desc lang="en">Recreio no pátio da escola: aqueles 15 minutos em que os professores não estão por perto e és só tu e os teus amigos e tantas histórias para contar!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609085300" stop="20190609090400" channel="rtp2.pt">
+    <title lang="en">Adivinha o Quanto Eu Gosto de Ti</title>
+    <desc lang="en">Uma série maravilhosa sobre o amor entre pais e filhos baseada nos livros escritos por Sam McBratney e ilustrados por Anita Jeram</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609090400" stop="20190609091500" channel="rtp2.pt">
+    <title lang="en">Vivi Vira Vento</title>
+    <desc lang="en">Viaja ao redor do mundo com Vivi, enquanto ela procura o mundo caprichoso de Whirligig: um lugar fantástico onde a imaginação suprema reina!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609091500" stop="20190609092800" channel="rtp2.pt">
+    <title lang="en">Peg e o Gato</title>
+    <desc lang="en">Com Peg e o seu gato aprender matemática é divertido!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609092800" stop="20190609094100" channel="rtp2.pt">
+    <title lang="en">Floopaloo, Onde Estás Tu?</title>
+    <desc lang="en">Lisa e Marco vivem muitas aventuras num acampamento de verão à procura de Floopaloo!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609094100" stop="20190609095300" channel="rtp2.pt">
+    <title lang="en">Floopaloo, Onde Estás Tu?</title>
+    <desc lang="en">Lisa e Marco vivem muitas aventuras num acampamento de verão à procura de Floopaloo!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609095300" stop="20190609100400" channel="rtp2.pt">
+    <title lang="en">Olivia</title>
+    <desc lang="en">Olivia é uma porca giríssima e diverte-se imenso com os seus melhores amigos!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609100400" stop="20190609101100" channel="rtp2.pt">
+    <title lang="en">Bing</title>
+    <desc lang="en">Bing e o seu amigo Flop vão viver grandes aventuras</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609101100" stop="20190609102000" channel="rtp2.pt">
+    <title lang="en">Bing</title>
+    <desc lang="en">Bing e o seu amigo Flop vão viver grandes aventuras</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609102000" stop="20190609103200" channel="rtp2.pt">
+    <title lang="en">A Abelha Maia</title>
+    <desc lang="en">As novas aventuras da abelha mais famosa do planeta!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609103200" stop="20190609104500" channel="rtp2.pt">
+    <title lang="en">A Abelha Maia</title>
+    <desc lang="en">As novas aventuras da abelha mais famosa do planeta!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609104500" stop="20190609105700" channel="rtp2.pt">
+    <title lang="en">Blinky Bill</title>
+    <desc lang="en">Blinky Bill é um ursinho simpático que ensina a lidar com o meio ambiente</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609105700" stop="20190609111000" channel="rtp2.pt">
+    <title lang="en">Blinky Bill</title>
+    <desc lang="en">Blinky Bill é um ursinho simpático que ensina a lidar com o meio ambiente</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609111000" stop="20190609112300" channel="rtp2.pt">
+    <title lang="en">Origanimais</title>
+    <desc lang="en">A nossa equipa de heróis tem uma missão: salvar os animais selvagens</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609112300" stop="20190609113400" channel="rtp2.pt">
+    <title lang="en">Chovem Almôndegas</title>
+    <desc lang="en">Flint Lockwood e os seus companheiros de aventura vivem numa cidade onde sardinhas estão a dirigir uma economia em expansão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609113400" stop="20190609114500" channel="rtp2.pt">
+    <title lang="en">Chovem Almôndegas</title>
+    <desc lang="en">Flint Lockwood e os seus companheiros de aventura vivem numa cidade onde sardinhas estão a dirigir uma economia em expansão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609114500" stop="20190609115600" channel="rtp2.pt">
+    <title lang="en">CJ a DJ</title>
+    <desc lang="en">Quem vai resistir a conhecer uma adolescente apaixonada pela musica tal como tantos adolescentes da sua idade? Se não resistes a uma boa música não te esqueças de ver CJ a DJ!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609115600" stop="20190609120700" channel="rtp2.pt">
+    <title lang="en">Clay Kids</title>
+    <desc lang="en">Flippy, Robbie, Naomi e os seus amigos estão de volta e prontos para novas aventuras!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609120700" stop="20190609121900" channel="rtp2.pt">
+    <title lang="en">Animais Quase Despidos</title>
+    <desc lang="en">Benvindos a Banana Cabana onde poderão encontrar caos, destruição e muita diversão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609121900" stop="20190609123500" channel="rtp2.pt">
+    <title lang="en">1001 Noites</title>
+    <desc lang="en">Junta-te a Shahrzad e vem viver 1001 noites de aventura, intriga e emoção!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609123500" stop="20190609141800" channel="rtp2.pt">
+    <title lang="en">Ciclismo: 71ª Edição Critérium du Dauphiné</title>
+    <desc lang="en">Acompanhe na RTP mais uma edição do Criterium du Dauphiné</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609141800" stop="20190609141900" channel="rtp2.pt">
+    <title lang="en">Desalinhado</title>
+    <desc lang="en">Espaço da RTP2 para os jovens até aos 18 anos. Mas aceitamos todas as idades!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609141900" stop="20190609144300" channel="rtp2.pt">
+    <title lang="en">O Bairro</title>
+    <desc lang="en">Criar um filho não é fácil, criar cinco... uma aventura!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609144300" stop="20190609150000" channel="rtp2.pt">
+    <title lang="en">O Solitário</title>
+    <desc lang="en">Quando um homem solitário consegue mais do que aquilo que deseja. Uma curta-metragem de Tomasz Konecki</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609150000" stop="20190609170200" channel="rtp2.pt">
+    <title lang="en">Desporto 2</title>
+    <desc lang="en">O Desporto 2 é o espaço de todos os atletas de excelência</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609170200" stop="20190609172400" channel="rtp2.pt">
+    <title lang="en">Europa Minha</title>
+    <desc lang="en">Pequenos formatos que visam informar os cidadãos sobre as próximas eleições europeias</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609172400" stop="20190609174500" channel="rtp2.pt">
+    <title lang="en">Voz do Cidadão</title>
+    <desc lang="en">A opinião dos telespetadores conta</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609174500" stop="20190609181300" channel="rtp2.pt">
+    <title lang="en">Caminhos</title>
+    <desc lang="en">Programa sobre actividades ligadas à Igreja</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609181300" stop="20190609184400" channel="rtp2.pt">
+    <title lang="en">70x7</title>
+    <desc lang="en">Reflexão semanal das atividades e assuntos relacionados com a igreja católica</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609184400" stop="20190609202700" channel="rtp2.pt">
+    <title lang="en">Uma Outra Vida</title>
+    <desc lang="en">Nunca é tarde para mudar de vida..</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609202700" stop="20190609210100" channel="rtp2.pt">
+    <title lang="en">Madeira Prima</title>
+    <desc lang="en">Uma série documental sobre a arte de trabalhar a madeira</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609210100" stop="20190609213000" channel="rtp2.pt">
+    <title lang="en">Medicinas do Mundo</title>
+    <desc lang="en">Roménia - O Milagre das Abelhas</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609213000" stop="20190609221200" channel="rtp2.pt">
+    <title lang="en">Jornal 2</title>
+    <desc lang="en">João Fernando Ramos, Daniel Catalão e Fátima Araújo dão-lhe o essencial da informação com rigor e objetividade</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609221200" stop="20190609230000" channel="rtp2.pt">
+    <title lang="en">Os Durrell</title>
+    <desc lang="en">Série britânica de qualidade com a assinatura BBC Worldwide</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609230000" stop="20190609232900" channel="rtp2.pt">
+    <title lang="en">Atelier d´Arquitetura</title>
+    <desc lang="en">Espaço Público I</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190609232900" stop="20190610001500" channel="rtp2.pt">
+    <title lang="en">Stabat Mater - Giovanni Battista Pergolesi</title>
+    <desc lang="en">Obra-prima da música sacra, com o aclamado contratenor francês Philippe Jaroussky</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610001500" stop="20190610005600" channel="rtp2.pt">
+    <title lang="en">Olhar o Mundo</title>
+    <desc lang="en">Um espaço de reflexão sobre os principais assuntos da semana a nível internacional, com coordenação e apresentação de António Mateus</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610005600" stop="20190610020200" channel="rtp2.pt">
+    <title lang="en">Cinemax</title>
+    <desc lang="en">Uma versão televisiva, em formato de curtas metragens, do programa sobre cinema da Antena 1 com exibição e estreia de curtas-metragens na RTP2</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610020200" stop="20190610070000" channel="rtp2.pt">
+    <title lang="en">Euronews</title>
+    <desc lang="en">No Euronews, saiba tudo o que se passa na Europa e no mundo</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610070000" stop="20190610070100" channel="rtp2.pt">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610070100" stop="20190610070200" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610070200" stop="20190610071000" channel="rtp2.pt">
+    <title lang="en">A Escola dos Rugidos</title>
+    <desc lang="en">Na Escola dos Rugidos os nossos amigos aprendem muitas coisas divertidas mas também grandes lições de vida!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610071000" stop="20190610071800" channel="rtp2.pt">
+    <title lang="en">Bing</title>
+    <desc lang="en">Bing e o seu amigo Flop vão viver grandes aventuras</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610071800" stop="20190610072000" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610072000" stop="20190610073200" channel="rtp2.pt">
+    <title lang="en">Ollie e Moon</title>
+    <desc lang="en">Ollie e Moon são dois gatos muito amigos que vivem e aprendem a aceitar as diferenças ao percorrer o mundo em grandes e divertiras aventuras</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610073200" stop="20190610074200" channel="rtp2.pt">
+    <title lang="en">Os Irmãos Koala</title>
+    <desc lang="en">São dois irmãos muito amigos que gostam de viver aventuras sobretudo no seu avião privado..</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610074200" stop="20190610075300" channel="rtp2.pt">
+    <title lang="en">Pablo</title>
+    <desc lang="en">Pablo é um menino inteligente e artístico que através dos seus desenhos consegue enfrentar o mundo real com mais confiança</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610075300" stop="20190610080400" channel="rtp2.pt">
+    <title lang="en">Bitz e Bob</title>
+    <desc lang="en">Blitz e Bob vão mostrar como a ciência, a tecnologia, a engenharia, a arte e a matemática podem ser divertidas!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610080400" stop="20190610080600" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610080600" stop="20190610080800" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610080800" stop="20190610082000" channel="rtp2.pt">
+    <title lang="en">Blinky Bill</title>
+    <desc lang="en">Blinky Bill é um ursinho simpático que ensina a lidar com o meio ambiente</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610082000" stop="20190610083400" channel="rtp2.pt">
+    <title lang="en">Origanimais</title>
+    <desc lang="en">A nossa equipa de heróis tem uma missão: salvar os animais selvagens</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610083400" stop="20190610084600" channel="rtp2.pt">
+    <title lang="en">1001 Noites</title>
+    <desc lang="en">Junta-te a Shahrzad e vem viver 1001 noites de aventura, intriga e emoção!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610084600" stop="20190610085900" channel="rtp2.pt">
+    <title lang="en">O Pátio</title>
+    <desc lang="en">Recreio no pátio da escola: aqueles 15 minutos em que os professores não estão por perto e és só tu e os teus amigos e tantas histórias para contar!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610085900" stop="20190610090100" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610090100" stop="20190610091300" channel="rtp2.pt">
+    <title lang="en">A Abelha Maia</title>
+    <desc lang="en">As novas aventuras da abelha mais famosa do planeta!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610091300" stop="20190610091500" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610091500" stop="20190610092700" channel="rtp2.pt">
+    <title lang="en">1001 Noites</title>
+    <desc lang="en">Junta-te a Shahrzad e vem viver 1001 noites de aventura, intriga e emoção!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610092700" stop="20190610093000" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610093000" stop="20190610094200" channel="rtp2.pt">
+    <title lang="en">Lou!</title>
+    <desc lang="en">Lou já não é uma criança, mas também ainda não é uma adolescente... e adora viver!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610094200" stop="20190610094900" channel="rtp2.pt">
+    <title lang="en">Tufão</title>
+    <desc lang="en">Tufão continua o mesmo rapaz indisciplinado, mas fiel aos seus amigos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610094900" stop="20190610095200" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610095200" stop="20190610100300" channel="rtp2.pt">
+    <title lang="en">3 AmigoNautas</title>
+    <desc lang="en">Eles são 3 amigos adoravelmente imprudentes e juntos vivem as mais loucas aventuras intergalácticas!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610100300" stop="20190610100500" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610100500" stop="20190610101600" channel="rtp2.pt">
+    <title lang="en">Clay Kids</title>
+    <desc lang="en">Flippy, Robbie, Naomi e os seus amigos estão de volta e prontos para novas aventuras!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610101600" stop="20190610103200" channel="rtp2.pt">
+    <title lang="en">Animais Quase Despidos</title>
+    <desc lang="en">Benvindos a Banana Cabana onde poderão encontrar caos, destruição e muita diversão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610103200" stop="20190610103300" channel="rtp2.pt">
+    <title lang="en">Desalinhado</title>
+    <desc lang="en">Espaço da RTP2 para os jovens até aos 18 anos. Mas aceitamos todas as idades!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610103300" stop="20190610110000" channel="rtp2.pt">
+    <title lang="en">Sangue de Lobo</title>
+    <desc lang="en">Ser um adolescente é muito difícil... Ser um adolescente Wolfblood é dez vezes mais complicado!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610110000" stop="20190610120200" channel="rtp2.pt">
+    <title lang="en">Sociedade Civil</title>
+    <desc lang="en">Internacionalizar</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610120200" stop="20190610123200" channel="rtp2.pt">
+    <title lang="en">Rufus Gifford, Embaixador no Reino da Dinamarca</title>
+    <desc lang="en">Um retrato honesto, único e inspirador de Rufus Gifford, Embaixador dos EUA no Reino da Dinamarca</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610123200" stop="20190610125900" channel="rtp2.pt">
+    <title lang="en">E2 - Escola Superior de Comunicação Social</title>
+    <desc lang="en">Temas abordados por alunos sob a forma de documentário, debate, reportagem, entrevista, vox pop, videoclip, ficção, anúncio publicitário ou arte vídeo</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610125900" stop="20190610131000" channel="rtp2.pt">
+    <title lang="en">Chovem Almôndegas</title>
+    <desc lang="en">Flint Lockwood e os seus companheiros de aventura vivem numa cidade onde sardinhas estão a dirigir uma economia em expansão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610131000" stop="20190610132200" channel="rtp2.pt">
+    <title lang="en">Chovem Almôndegas</title>
+    <desc lang="en">Flint Lockwood e os seus companheiros de aventura vivem numa cidade onde sardinhas estão a dirigir uma economia em expansão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610132200" stop="20190610133600" channel="rtp2.pt">
+    <title lang="en">CJ a DJ</title>
+    <desc lang="en">Quem vai resistir a conhecer uma adolescente apaixonada pela musica tal como tantos adolescentes da sua idade? Se não resistes a uma boa música não te esqueças de ver CJ a DJ!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610133600" stop="20190610140500" channel="rtp2.pt">
+    <title lang="en">Drama Total em Ação</title>
+    <desc lang="en">42 dias, 14 concorrentes, uma grande pipa de massa! Bem vindos ao Drama Total em Ação!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610140500" stop="20190610155000" channel="rtp2.pt">
+    <title lang="en">Ciclismo: 71ª Edição Critérium du Dauphiné</title>
+    <desc lang="en">Acompanhe na RTP mais uma edição do Criterium du Dauphiné</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610155000" stop="20190610162300" channel="rtp2.pt">
+    <title lang="en">A Fé dos Homens</title>
+    <desc lang="en">Encontro de jovens estudantes universitários adventistas, na cidade de Coimbra</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610162300" stop="20190610165800" channel="rtp2.pt">
+    <title lang="en">Onde Está o Tesouro</title>
+    <desc lang="en">Tem objetos em casa com histórias para contar? Então este é o seu programa!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610165800" stop="20190610185000" channel="rtp2.pt">
+    <title lang="en">Basquetebol: Liga Portuguesa de Basquetebol Placard 2018/2019</title>
+    <desc lang="en">Oliveirense x Benfica</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610185000" stop="20190610185100" channel="rtp2.pt">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610185100" stop="20190610185200" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610185200" stop="20190610190400" channel="rtp2.pt">
+    <title lang="en">1001 Noites</title>
+    <desc lang="en">Junta-te a Shahrzad e vem viver 1001 noites de aventura, intriga e emoção!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610190400" stop="20190610190600" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610190600" stop="20190610191800" channel="rtp2.pt">
+    <title lang="en">A Abelha Maia</title>
+    <desc lang="en">As novas aventuras da abelha mais famosa do planeta!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610191800" stop="20190610192100" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610192100" stop="20190610193500" channel="rtp2.pt">
+    <title lang="en">O Pátio</title>
+    <desc lang="en">Recreio no pátio da escola: aqueles 15 minutos em que os professores não estão por perto e és só tu e os teus amigos e tantas histórias para contar!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610193500" stop="20190610193600" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610193600" stop="20190610194700" channel="rtp2.pt">
+    <title lang="en">3 AmigoNautas</title>
+    <desc lang="en">Eles são 3 amigos adoravelmente imprudentes e juntos vivem as mais loucas aventuras intergalácticas!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610194700" stop="20190610200000" channel="rtp2.pt">
+    <title lang="en">Lou!</title>
+    <desc lang="en">Lou já não é uma criança, mas também ainda não é uma adolescente... e adora viver!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610200000" stop="20190610200700" channel="rtp2.pt">
+    <title lang="en">Tufão</title>
+    <desc lang="en">Tufão continua o mesmo rapaz indisciplinado, mas fiel aos seus amigos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610200700" stop="20190610201400" channel="rtp2.pt">
+    <title lang="en">Tufão</title>
+    <desc lang="en">Tufão continua o mesmo rapaz indisciplinado, mas fiel aos seus amigos</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610201400" stop="20190610201700" channel="rtp2.pt">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610201700" stop="20190610202800" channel="rtp2.pt">
+    <title lang="en">Clay Kids</title>
+    <desc lang="en">Flippy, Robbie, Naomi e os seus amigos estão de volta e prontos para novas aventuras!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610202800" stop="20190610203000" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610203000" stop="20190610204100" channel="rtp2.pt">
+    <title lang="en">Animais Quase Despidos</title>
+    <desc lang="en">Benvindos a Banana Cabana onde poderão encontrar caos, destruição e muita diversão!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610204100" stop="20190610204800" channel="rtp2.pt">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610204800" stop="20190610211900" channel="rtp2.pt">
+    <title lang="en">A Casa da Dani</title>
+    <desc lang="en">Uma casa frenética, agitada e bem divertida</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610211900" stop="20190610213000" channel="rtp2.pt">
+    <title lang="en">Hora da Sorte - Lotaria</title>
+    <desc lang="en">Conheça os números «mágicos» que saem das esferas da Lotaria Clássica</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610213000" stop="20190610221300" channel="rtp2.pt">
+    <title lang="en">Jornal 2</title>
+    <desc lang="en">João Fernando Ramos, Daniel Catalão e Fátima Araújo dão-lhe o essencial da informação com rigor e objetividade</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610221300" stop="20190610230800" channel="rtp2.pt">
+    <title lang="en">Imprensa</title>
+    <desc lang="en">Série dramática britânica, com assinatura BBC, sobre uma indústria que nunca esteve tão no centro das atenções como agora</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610230800" stop="20190610234500" channel="rtp2.pt">
+    <title lang="en">Visita Guiada</title>
+    <desc lang="en">D. Nuno Álvares Pereira e as Artes da Guerra, Museu Nacional Machado de Castro, Coimbra</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190610234500" stop="20190611010100" channel="rtp2.pt">
+    <title lang="en">A Ilha dos Cães</title>
+    <desc lang="en">Duas Angolas, a colonial e a atual, distanciadas 60 anos, partilham a maldição de uma ilha misteriosa num filme do cineasta português Jorge António</desc>
+    <category lang="en">News</category>
+  </programme>
