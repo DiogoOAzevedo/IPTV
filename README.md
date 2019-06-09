@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+<!--Canais Generalistas-->
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
@@ -18,7 +18,7 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 
 
-
+<!--Canais de Informação-->
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png?v=3&w=860" group-title="Informação",RTP 3
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
@@ -33,7 +33,7 @@ http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 http://188.93.238.153:8000/play/a05a/index.m3u8
 
 
-
+<!--Canais de Entretenimento-->
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="Entretenimento",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
@@ -81,7 +81,7 @@ http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla
 http://188.93.238.153:8000/play/a00s/index.m3u8
 
 
-
+<!--Canais de Desporto-->
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png"  group-title="Desporto",A BOLA TV
 http://188.93.238.153:8000/play/a04t/index.m3u8
@@ -138,6 +138,7 @@ http://188.93.238.153:8000/play/a049/index.m3u8
 http://188.93.238.153:8000/play/a05u/index.m3u8
 
 
+<!--Canais Infantis-->
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="Infantil",DISNEY CHANNEL
 http://188.93.238.153:8000/play/a01l/index.m3u8
@@ -170,7 +171,7 @@ http://188.82.107.63:8030/play/a05l
 http://188.83.103.117:8035/play/a00z
 
 
-
+<!--Canais de Filmes e Series-->
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2011/09/logo-TV-S%C3%A9ries.jpg" group-title="Cinema",TVSeries
 http://188.93.238.153:8000/play/a075/index.m3u8
@@ -224,7 +225,7 @@ http://188.93.238.153:8000/play/a018/index.m3u8
 http://188.93.238.153:8000/play/a06n/index.m3u8
 
 
-
+<!--Canais de Documentarios-->
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/discovery-corporate-new-logo.jpg?w=1000" group-title="Documentarios",DISCOVERY
 http://188.93.238.153:8000/play/a05c/index.m3u8
@@ -242,7 +243,7 @@ http://188.93.238.153:8000/play/a060/index.m3u8
 http://188.93.238.153:8000/play/a05y/index.m3u8
 
 
-
+<!--Canais de Musica-->
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="Musica",VH1 EUROPE
 http://94.46.222.90:2113
@@ -281,7 +282,7 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
 
-
+<!--Canais de Radio-->
 
 #EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Radio",RADIO COMERCIAL
 http://mcrwowza4.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
