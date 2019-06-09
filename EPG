@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channelList>
+	<channel ID=rtp1.pt>
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.rtp.pt</url>
+
+	<channel>
+		<meoCode>RTP2</meoCode>
+		<tvg-id>rtp2.pt</tvg-id>
+		<name>RTP 2</name>
+	</channel>
+
+	<channel>
+		<meoCode>SIC</meoCode>
+		<tvg-id>sic.pt</tvg-id>
+		<name>SIC</name>
+	</channel>
+
+	<channel>
+		<meoCode>TVI</meoCode>
+		<tvg-id>TVI.pt</tvg-id>
+		<name>TVI</name>
+	</channel>
