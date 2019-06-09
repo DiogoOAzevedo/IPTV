@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="RTP 1">
     <display-name lang="pt">RTP 1</display-name>
@@ -18,9 +18,9 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ARTV">
-    <display-name lang="pt">ARTV</display-name>
-    <url>http://www.mag.sapo.pt</url>
+  <channel id="ARTV (Canal Parlamento)">
+    <display-name lang="pt">ARTV (Canal Parlamento)</display-name>
+    <url>http://www.portalnacional.com.pt</url>
   </channel>
   <programme start="20190609013200 +0100" stop="20190609022200 +0100" channel="RTP 1">
     <title lang="pt">A3.30:T1 Ep.19</title>
@@ -1306,5 +1306,9 @@
   <programme start="20190615230000 +0100" stop="20190616023000 +0100" channel="TVI">
     <title lang="pt">Like Me - Live Show</title>
     <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609014000 +0100" stop="20190616023000 +0100" channel="ARTV (Canal Parlamento)">
+    <title lang="pt">Sem descrição</title>
+    <category lang="pt">Sem descrição</category>
   </programme>
 </tv>
