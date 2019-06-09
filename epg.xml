@@ -1,0 +1,1310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="http://www.guia-tv.pt/logos/rtp-1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="http://www.guia-tv.pt/logos/rtp-2.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <programme start="20190609013200 +0100" stop="20190609022200 +0100" channel="RTP 1">
+    <title lang="pt">A3.30:T1 Ep.19</title>
+    <desc lang="pt">Todas as semanas, Fernando Alvim mostra-lhe o top dos videoclipes lançados no Youtube(n)</desc>
+  </programme>
+  <programme start="20190609022200 +0100" stop="20190609031000 +0100" channel="RTP 1">
+    <title lang="pt">Vida Selvagem No Rio Africano:T1 Ep.1</title>
+    <desc lang="pt">No rio Luangwa, a lei da terra é ditada pelas estações sempre em mudança e pelo ciclo constante da vida. Na estação chuvosa o vale é um paraíso. As águas fluem em abundância e a vegetação verdejante torna a paisagem encantadora(n)</desc>
+  </programme>
+  <programme start="20190609031000 +0100" stop="20190609061000 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+  </programme>
+  <programme start="20190609061000 +0100" stop="20190609063000 +0100" channel="RTP 1">
+    <title lang="pt">Todas as Palavras:T4 Ep.21</title>
+    <desc lang="pt">Ana Daniela Soares e Inês Fonseca Santos apresentam os livros e os autores que nos emocionam(n)</desc>
+  </programme>
+  <programme start="20190609063000 +0100" stop="20190609063100 +0100" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+  </programme>
+  <programme start="20190609063100 +0100" stop="20190609064300 +0100" channel="RTP 1">
+    <title lang="pt">Conta um Conto:T1 Ep.19</title>
+    <desc lang="pt">Contos que promovem a gentileza, a inclusão e a diversidade. São 20 contos narrados ao mesmo tempo por atores, artistas e contadores de histórias em Português e em Língua Gestual Portuguesa(n)</desc>
+  </programme>
+  <programme start="20190609064300 +0100" stop="20190609065000 +0100" channel="RTP 1">
+    <title lang="pt">Ema e Gui Ep.35</title>
+    <desc lang="pt">Série de animação inteiramente produzida em Portugal. Co-produção da RTP com José Miguel Ribeiro, um dos mais premiados animadores portugueses, esta série de 52 episódios de 7 minutos cada, conta a história de uma menina de 4 anos(n)</desc>
+  </programme>
+  <programme start="20190609065000 +0100" stop="20190609065300 +0100" channel="RTP 1">
+    <title lang="pt">Os Pequenos Contos de Wismo Ep.31</title>
+    <desc lang="pt">Sempre com a sua trouxa mágica, Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa. De certa forma, Wismo é o herói oculto dessas fábulas, aquele que nunca ouviu falar... ainda. É tempo agora de devolver o mérito que merece(n)</desc>
+  </programme>
+  <programme start="20190609065300 +0100" stop="20190609070800 +0100" channel="RTP 1">
+    <title lang="pt">Zig Zag:T21 Ep.46</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+  </programme>
+  <programme start="20190609070800 +0100" stop="20190609072000 +0100" channel="RTP 1">
+    <title lang="pt">Gawayn:T1 Ep.2</title>
+    <desc lang="pt">Esta é uma aventura entre homens valentes que querem salvar a princesa Gwendolina!(n)</desc>
+  </programme>
+  <programme start="20190609072000 +0100" stop="20190609073300 +0100" channel="RTP 1">
+    <title lang="pt">Lulu Cambalhota:T2 Ep.10</title>
+    <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza!(n)</desc>
+  </programme>
+  <programme start="20190609073300 +0100" stop="20190609080000 +0100" channel="RTP 1">
+    <title lang="pt">Nutri Ventures - Em Busca dos 7 Reinos:T5 Ep.3</title>
+    <desc lang="pt">Nutris são as aventuras de 4 amigos no reino da nutrição. O mau da fita fez desaparecer da face da terra todos os alimentos e sabores transformando-os num comprimido. Os Nutris vão salvar o paladar terrestre, descobrir onde esconderam os alimentos e aprender sobre como comer sem adoecer(n)</desc>
+  </programme>
+  <programme start="20190609080000 +0100" stop="20190609103000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal - Fim de Semana</title>
+    <desc lang="pt">Um espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+  </programme>
+  <programme start="20190609103000 +0100" stop="20190609113600 +0100" channel="RTP 1">
+    <title lang="pt">Eucaristia Dominical Ep.20</title>
+    <desc lang="pt">Lisboa: Solenidade de Pentecostes Presidente: Padre Nélio Pita Coro: Coro Sagrado Coração de Jesus Maestro: Padre Miguel Carneiro Organista:tiago Nunes Cor: Vermelha Igreja Paroquial de S. Tomás de Aquino (Lisboa)(n)</desc>
+  </programme>
+  <programme start="20190609113600 +0100" stop="20190609121300 +0100" channel="RTP 1">
+    <title lang="pt">Paraíso Verde Ep.19</title>
+    <desc lang="pt">Raja Ampat, na Papua Ocidental, Indonésia, é um arquipélago composto por quatro ilhas principais, cobertas por florestas densas, inúmeras ilhas menores e protuberâncias rochosas. A beleza e variedade das paisagens são de tirar o fôlego. Um casal de amantes da natureza criou ali um eco-resort(n)</desc>
+  </programme>
+  <programme start="20190609121300 +0100" stop="20190609130000 +0100" channel="RTP 1">
+    <title lang="pt">As Receitas Lá de Casa Ep.172</title>
+    <desc lang="pt">As "Receitas lá de Casa" é uma competição em que duas duplas de amigos ou familiares se defrontam na cozinha. A fórmula é bem simples: as duas equipas cozinham em simultâneo, têm um tempo para a prova e um cabaz com todos os ingredientes que necessitam para fazer o melhor prato(n)</desc>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609142100 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13 horas, as notícias que marcam a atualidade nacional e mundial. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP(n)</desc>
+  </programme>
+  <programme start="20190609142100 +0100" stop="20190609152600 +0100" channel="RTP 1">
+    <title lang="pt">Faz Faísca:T1 Ep.17</title>
+    <desc lang="pt">Vamos Fazer Faísca com a Sea nas ruas! A youtuber e cantora tem novo álbum e vai impressionar pequenos e graúdos com os seus longos cabelos azuis pela baixa lisboeta. Sem cabelo azul, mas com figurino colorido, vamos esbanjar glamour e humor entre os admiradores de Elton John(n)</desc>
+  </programme>
+  <programme start="20190609152600 +0100" stop="20190609161300 +0100" channel="RTP 1">
+    <title lang="pt">Portugueses pelo Mundo:T9 Ep.5</title>
+    <desc lang="pt">Neste "Portugueses pelo Mundo", viajamos por África e pela Europa e ficamos a conhecer três portugueses que trabalham em profissões ligadas ao mar. É na ilha de Santo Antão, em Cabo Verde, que conhecemos António Garcias, 52 anos, instrutor de mergulho que nos leva numa viagem pelos mares da ilha(n)</desc>
+  </programme>
+  <programme start="20190609161300 +0100" stop="20190609180800 +0100" channel="RTP 1">
+    <title lang="pt">Benfica x Sporting - Futsal: Liga Sport Zone</title>
+    <desc lang="pt">Transmissão do derby Benfica x Sporting, a contar para o Campeonato Nacional de Futsal(n)</desc>
+  </programme>
+  <programme start="20190609180800 +0100" stop="20190609190000 +0100" channel="RTP 1">
+    <title lang="pt">Pré-Match: Final Liga das Nações: Portugal x Holanda</title>
+    <desc lang="pt">Acompanhe a antevisão e os momentos que antecedem o início do jogo da final da edição inaugural da Liga das Nações(n)</desc>
+  </programme>
+  <programme start="20190609190000 +0100" stop="20190609193300 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou no país e no mundo. Se é importante, está no Telejornal(n)</desc>
+  </programme>
+  <programme start="20190609193300 +0100" stop="20190609214300 +0100" channel="RTP 1">
+    <title lang="pt">Portugal x Holanda - Final (Direto): Liga das Nações</title>
+    <desc lang="pt">O Estádio do Dragão é palco da final da Liga das Nações. Portugal e Holanda disputam a vitória da edição inaugural da Liga das Nações. A seleção nacional chegou à final depois de derrotar a Suíça por 3-1 e a Holanda venceu a Inglaterra, também, por 3-1, após prolongamento(n)</desc>
+  </programme>
+  <programme start="20190609214300 +0100" stop="20190609220000 +0100" channel="RTP 1">
+    <title lang="pt">Cerimónia de Entrega do Troféu: Liga das Nações</title>
+    <desc lang="pt">No final do jogo da final da Liga das Nações, fique com a sua RTP e acompanhe os festejos e a entrega do troféu à equipa vencedora da edição inaugural da competição(n)</desc>
+  </programme>
+  <programme start="20190609002000 +0100" stop="20190609011200 +0100" channel="RTP 2">
+    <title lang="pt">Renascer das Cinzas: Salvar os Cavalos do Rei</title>
+    <desc lang="pt">Trakehner é considerada por alguns como a mais importante raça de cavalos. No entanto, por pouco não conseguiram chegar ao século XXI: duas guerras mundiais quase os dizimaram. O documentário mostra-nos a graça e beleza destes velozes cavalos que conseguiram sobreviver a todas as contrariedades(n)</desc>
+  </programme>
+  <programme start="20190609011200 +0100" stop="20190609025100 +0100" channel="RTP 2">
+    <title lang="pt">Tarrafal</title>
+    <desc lang="pt">Quase tudo se transformou num monte de escombros e mato. Restaram fantasmas que vagueiam entre os campos, as ruínas e o nevoeiro. Alguns desses fantasmas estão vivos. São gente que ficou, gente que volta, gente que deambula pelas memórias difíceis daquele que foi o mais maldito bairro da cidade(n)</desc>
+  </programme>
+  <programme start="20190609025100 +0100" stop="20190609070000 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, As reportagens abrangem temas de interesse internacional, nacional, desportivo, cultural, entretenimento e até a previsão do estado do tempo na Europa. A Euronews acompanha sempre todos os acontecimentos de relevo nacional(n)</desc>
+  </programme>
+  <programme start="20190609070000 +0100" stop="20190609075500 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, As reportagens abrangem temas de interesse internacional, nacional, desportivo, cultural, entretenimento e até a previsão do estado do tempo na Europa. A Euronews acompanha sempre todos os acontecimentos de relevo nacional(n)</desc>
+  </programme>
+  <programme start="20190609075500 +0100" stop="20190609075600 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
+  </programme>
+  <programme start="20190609075600 +0100" stop="20190609075700 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag:T1 Ep.9</title>
+    <desc lang="pt">Todos foram aprender um instrumento e escolheram falar de alguns temas que nem sempre são motivo de letras de músicas!(n)</desc>
+  </programme>
+  <programme start="20190609075700 +0100" stop="20190609082100 +0100" channel="RTP 2">
+    <title lang="pt">As Aventuras do Urso Paddington Ep.34</title>
+    <desc lang="pt">O Urso Paddington não procura a aventura mas parece que a aventura o procura a ele! Uma coisa é certa, onde o urso Paddington aparece, haverá o caos, o pânico e montes de gargalhadas(n)</desc>
+  </programme>
+  <programme start="20190609082100 +0100" stop="20190609083200 +0100" channel="RTP 2">
+    <title lang="pt">Ollie &amp; Moon Show:T1 Ep.34</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar(n)</desc>
+  </programme>
+  <programme start="20190609083200 +0100" stop="20190609084000 +0100" channel="RTP 2">
+    <title lang="pt">A Escola dos Rugidos:T1 Ep.44</title>
+    <desc lang="pt">Ir para a escola pela primeira vez é um dos maiores desafios que temos de enfrentar. A Escola dos Rugidos ajuda as crianças a prepararem-se para a vida escolar explorando o primeiro ano da criança através dos relacionamentos e experiências dos nossos mini monstros(n)</desc>
+  </programme>
+  <programme start="20190609084000 +0100" stop="20190609085300 +0100" channel="RTP 2">
+    <title lang="pt">O Pátio Ep.19</title>
+    <desc lang="pt">Numa adaptação para televisão dos populares livros de Danny Katz e ilustrados por Mitch Vane, cada episódio de "O Pátio" gira em torno de seis crianças e aborda os grandes problemas dos recreios das escolas(n)</desc>
+  </programme>
+  <programme start="20190609085300 +0100" stop="20190609090400 +0100" channel="RTP 2">
+    <title lang="pt">Adivinha o Quanto Gosto de Ti:T2 Ep.23</title>
+    <desc lang="pt">Às vezes, quando gostamos muito, muito de alguém, queremos encontrar uma maneira de descrever como os nossos sentimentos são grandes. Mas como descobrem a Pequena Lebre Castanha e Grande Lebre Castanha, o amor não é coisa fácil de medir!(n)</desc>
+  </programme>
+  <programme start="20190609090400 +0100" stop="20190609091500 +0100" channel="RTP 2">
+    <title lang="pt">Vivi Viravento:T1 Ep.21</title>
+    <desc lang="pt">Vem juntar-te a Vivi e aos seus adoráveis amigos, Backpack e Flashy, enquanto ela imagina uma série de aventuras encantadoras que ganham vida nas páginas do seu livro de recortes. Em cada episódio, o trio é levado para uma jornada mágica, cheia de diversão colorida, novos amigos e lições de vida(n)</desc>
+  </programme>
+  <programme start="20190609091500 +0100" stop="20190609092800 +0100" channel="RTP 2">
+    <title lang="pt">Peg e o Gato:T2 Ep.22</title>
+    <desc lang="pt">Segunda temporada das aventuras aritméticas de Peg e o seu gato. Vem aprender com eles como a matemática pode ser divertida!(n)</desc>
+  </programme>
+  <programme start="20190609092800 +0100" stop="20190609094100 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?:T1 Ep.32</title>
+    <desc lang="pt">Durante as suas férias de verão num acampamento, Lisa e Marco descobrem que, longe dos olhos inquisitivos dos adultos, o mundo é um lugar espantoso, habitado por pedras fantásticas, porcos electrificados, árvores de memória e pelo... lendário Floopaloo!(n)</desc>
+  </programme>
+  <programme start="20190609094100 +0100" stop="20190609095300 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?:T1 Ep.33</title>
+    <desc lang="pt">Durante as suas férias de verão num acampamento, Lisa e Marco descobrem que, longe dos olhos inquisitivos dos adultos, o mundo é um lugar espantoso, habitado por pedras fantásticas, porcos electrificados, árvores de memória e pelo... lendário Floopaloo!(n)</desc>
+  </programme>
+  <programme start="20190609095300 +0100" stop="20190609100400 +0100" channel="RTP 2">
+    <title lang="pt">Olivia:T1 Ep.22</title>
+    <desc lang="pt">Olivia é uma porca giríssima com uma família de porcos igualmente giríssima. Animação da melhor qualidade com as aventuras desta família normal(n)</desc>
+  </programme>
+  <programme start="20190609100400 +0100" stop="20190609101100 +0100" channel="RTP 2">
+    <title lang="pt">Bing Ep.49</title>
+    <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava(n)</desc>
+  </programme>
+  <programme start="20190609101100 +0100" stop="20190609102000 +0100" channel="RTP 2">
+    <title lang="pt">Bing Ep.50</title>
+    <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava(n)</desc>
+  </programme>
+  <programme start="20190609102000 +0100" stop="20190609103200 +0100" channel="RTP 2">
+    <title lang="pt">A Abelha Maia:T2 Ep.13</title>
+    <desc lang="pt">Maia é uma abelha bem curiosa, vai para a escola como todas as outras abelhas pois é lá que irão aprender a evitar todos os perigos. Mas a curiosidade depressa fala mais alto e faz com que ela queira ver com os seus próprios olhos que segredos e mistérios a floresta encerra(n)</desc>
+  </programme>
+  <programme start="20190609103200 +0100" stop="20190609104500 +0100" channel="RTP 2">
+    <title lang="pt">A Abelha Maia:T2 Ep.14</title>
+    <desc lang="pt">Maia é uma abelha bem curiosa, vai para a escola como todas as outras abelhas pois é lá que irão aprender a evitar todos os perigos. Mas a curiosidade depressa fala mais alto e faz com que ela queira ver com os seus próprios olhos que segredos e mistérios a floresta encerra(n)</desc>
+  </programme>
+  <programme start="20190609104500 +0100" stop="20190609105700 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill Ep.36</title>
+    <desc lang="pt">Blinky Bill e os seus amigos perdem-se durante uma excursão escolar no mato. Ao procurar o caminho para casa em diferentes partes da Austrália, eles têm muitas aventuras ajudando outros animais em necessidade, incluindo um crocodilo, pinguins e animais da fazenda e circo(n)</desc>
+  </programme>
+  <programme start="20190609105700 +0100" stop="20190609111000 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill Ep.37</title>
+    <desc lang="pt">Blinky Bill e os seus amigos perdem-se durante uma excursão escolar no mato. Ao procurar o caminho para casa em diferentes partes da Austrália, eles têm muitas aventuras ajudando outros animais em necessidade, incluindo um crocodilo, pinguins e animais da fazenda e circo(n)</desc>
+  </programme>
+  <programme start="20190609111000 +0100" stop="20190609112300 +0100" channel="RTP 2">
+    <title lang="pt">Origanimais Ep.38</title>
+    <desc lang="pt">Vem conhecer "Os Quatro Fantásticos" ou A4, como todos os conhecem. Eles são a melhor equipa de salvamento de animais selvagens do mundo! Se algum animal selvagem estiver perdido, sentindo-se triste, preso na lama ou sentindo-se impotente sobre algo, chamem os A4!(n)</desc>
+  </programme>
+  <programme start="20190609112300 +0100" stop="20190609113400 +0100" channel="RTP 2">
+    <title lang="pt">Chovem Almôndegas Ep.20</title>
+    <desc lang="pt">A série "Chovem Almôndegas" tem lugar antes de a chuva de comida gigante cair sobre Cataratas de Engole, quando as sardinhas ainda são a força motriz por detrás da economia operária da cidade. Flint Lockwood é um estudante de liceu que sofre de SSP: sonhos sem peixes(n)</desc>
+  </programme>
+  <programme start="20190609113400 +0100" stop="20190609114500 +0100" channel="RTP 2">
+    <title lang="pt">Chovem Almôndegas Ep.21</title>
+    <desc lang="pt">A série "Chovem Almôndegas" tem lugar antes de a chuva de comida gigante cair sobre Cataratas de Engole, quando as sardinhas ainda são a força motriz por detrás da economia operária da cidade. Flint Lockwood é um estudante de liceu que sofre de SSP: sonhos sem peixes(n)</desc>
+  </programme>
+  <programme start="20190609114500 +0100" stop="20190609115600 +0100" channel="RTP 2">
+    <title lang="pt">CJ a DJ Ep.45</title>
+    <desc lang="pt">Cathleen Jones (CJ) é uma jovem divertida apaixonada pela sua música e quer partilhá-la com o mundo. Desde festas para crianças à abertura da lavagem de carros local, tudo é pretexto para CJ partilhar a sua música e ficar mais feliz(n)</desc>
+  </programme>
+  <programme start="20190609115600 +0100" stop="20190609120700 +0100" channel="RTP 2">
+    <title lang="pt">Clay Kids:T2 Ep.6</title>
+    <desc lang="pt">Sete jovens adolescentes vivem a adolescência com uma pitada de humor, tecnologia e magia. Umas vezes resulta... outras só pode dar uma grande confusão!(n)</desc>
+  </programme>
+  <programme start="20190609120700 +0100" stop="20190609121900 +0100" channel="RTP 2">
+    <title lang="pt">Animais Quase Despidos:T1 Ep.1</title>
+    <desc lang="pt">Baseado nos peculiares desenhos de Noah Z. Jones, esta divertida série apresenta um grupo de animais vestidos, num hotel à beira-mar chamado Banana Cabana, lar de caos, destruição e diversão! O grupo é liderado por Howie, o gerente canino amante de diversão e hospitalidade desafiante(n)</desc>
+  </programme>
+  <programme start="20190609121900 +0100" stop="20190609123500 +0100" channel="RTP 2">
+    <title lang="pt">1001 Noites:T2 Ep.19</title>
+    <desc lang="pt">Nesta segunda temporada, Shahrzad vai contar-te novos e excitantes contos de aventura, intriga e emoção!(n)</desc>
+  </programme>
+  <programme start="20190609123500 +0100" stop="20190609141800 +0100" channel="RTP 2">
+    <title lang="pt">Ciclismo: Critérium Du Dauphiné - Resumos</title>
+    <desc lang="pt">A 71ª edição do Criterium du Dauphiné, prova do World Tour, realiza-se entre 9 e 16 de junho e serve como ensaio geral para o Tour de France. A rota da Critérium du Dauphiné, estabelece um percurso longo e árduo, que compreende oito etapas e se estende por 1200 kms(n)</desc>
+  </programme>
+  <programme start="20190609141800 +0100" stop="20190609141900 +0100" channel="RTP 2">
+    <title lang="pt">Desalinhado</title>
+    <desc lang="pt">Novo espaço na RTP 2 com programas direcionados para jovens dos 14 aos 18 anos, onde poderão assistir a programas de ficção, magazines e reportagens(n)</desc>
+  </programme>
+  <programme start="20190609141900 +0100" stop="20190609144300 +0100" channel="RTP 2">
+    <title lang="pt">O Bairro:T1 Ep.3</title>
+    <desc lang="pt">Com autoria do escritor israelita Giora Chamizer, esta série segue Ben, um viúvo com cinco filhos que vive em The Hood, num bairro social situado no meio de uma das cidades mais ricas do país. Ben luta para sustentar a sua família com uma série de negócios que nunca dão certo(n)</desc>
+  </programme>
+  <programme start="20190609144300 +0100" stop="20190609150000 +0100" channel="RTP 2">
+    <title lang="pt">O Solitário</title>
+    <desc lang="pt">Jan vive sozinho numa cabana rústica na encosta de uma montanha polaca coberta de neve. Após estragar as suas botas de neve durante uma caminhada, Jan encomenda um novo par online. Na manhã seguinte, Jan uma mulher chamada Ana faz a entrega. Jan fica impressionado com a beleza dela(n)</desc>
+  </programme>
+  <programme start="20190609150000 +0100" stop="20190609170200 +0100" channel="RTP 2">
+    <title lang="pt">Desporto 2</title>
+    <desc lang="pt">Bem-vindo ao programa das modalidades praticadas em Portugal e no estrangeiro(n)</desc>
+  </programme>
+  <programme start="20190609170200 +0100" stop="20190609172400 +0100" channel="RTP 2">
+    <title lang="pt">Europa Minha</title>
+    <desc lang="pt">Conjunto de 30 programas sobre as Eleições Europeias de 2019 onde serão abordados os principais temas que preocupam os cidadãos Europeus(n)</desc>
+  </programme>
+  <programme start="20190609172400 +0100" stop="20190609174500 +0100" channel="RTP 2">
+    <title lang="pt">Voz do Cidadão:T8 Ep.21</title>
+    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespectadores em cada semana(n)</desc>
+  </programme>
+  <programme start="20190609174500 +0100" stop="20190609181300 +0100" channel="RTP 2">
+    <title lang="pt">Caminhos</title>
+    <desc lang="pt">Programa informativo semanal dedicado às actividades das diversas Igrejas representadas em Portugal. Para além de abordar as actividades religiosas inerentes a cada uma, caminhos tem também uma preocupação social, tratando temas de interesse para a sociedade actual(n)</desc>
+  </programme>
+  <programme start="20190609181300 +0100" stop="20190609184400 +0100" channel="RTP 2">
+    <title lang="pt">70X7</title>
+    <desc lang="pt">Programa em emissão há 26 anos na RTP, da responsabilidade editorial do Secretariado Nacional das Comunicações Sociais (órgão da Conferência Episcopal Portuguesa). Em cada domingo, apresentava-se uma reportagem que procura descobrir sinais do religioso(n)</desc>
+  </programme>
+  <programme start="20190609184400 +0100" stop="20190609202700 +0100" channel="RTP 2">
+    <title lang="pt">Uma Outra Vida:T1 Ep.1</title>
+    <desc lang="pt">Um dia, a polícia bate à porta do apartamento de Emma, no centro de Milão, e prende o marido, Pietro, acusado de corrupção. Emma tem de enfrentar o consequente escândalo e a descoberta de que Pietro a traiu e esconde muitos segredos relacionados com a gestão fraudulenta do hospital onde trabalha(n)</desc>
+  </programme>
+  <programme start="20190609202700 +0100" stop="20190609210100 +0100" channel="RTP 2">
+    <title lang="pt">Madeira Prima Ep.4</title>
+    <desc lang="pt">Série documental protagonizada por marceneiros, artistas, artesãos e designers de diferentes gerações que nos revelam os segredos da sua arte. Vamos aprender a conhecer e valorizar uma das matérias-primas mais nobres e sustentáveis e que é trabalhada pelo homem desde tempos imemoriais: a madeira(n)</desc>
+  </programme>
+  <programme start="20190609210100 +0100" stop="20190609213000 +0100" channel="RTP 2">
+    <title lang="pt">Medicinas do Mundo:T2 Ep.9</title>
+    <desc lang="pt">Tal como a prática de usar plantas para medicina, o uso de abelhas - ou apiterapia - também parece ser universal. As propriedades medicinais dos produtos da colmeia são conhecidas há muito tempo. Mas na Europa, um país lidera uma tendência que exalta as suas virtudes - a Roménia(n)</desc>
+  </programme>
+  <programme start="20190609213000 +0100" stop="20190609221200 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2 Ep.159</title>
+    <desc lang="pt">A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
+  </programme>
+  <programme start="20190609221200 +0100" stop="20190609230000 +0100" channel="RTP 2">
+    <title lang="pt">Os Durrell:T2 Ep.5</title>
+    <desc lang="pt">Vasilia faz a proposta menos romântica da história. Spiros e Hugh organizam uma partida de críquete "amigável" entre gregos e ingleses. Gerry domestica um falcão(n)</desc>
+  </programme>
+  <programme start="20190609230000 +0100" stop="20190609232900 +0100" channel="RTP 2">
+    <title lang="pt">Atelier d' Arquitetura:T1 Ep.10</title>
+    <desc lang="pt">O espaço público é o elemento aglutinador da forma urbana, da estrutura da Cidade. É o espaço comum de diferentes estratos sociais. O Espaço Público ordena a Cidade. Os arquitetos desenham espaços públicos qualificados e requalificam outros, atribuindo-lhes novos usos e formas(n)</desc>
+  </programme>
+  <programme start="20190609232900 +0100" stop="20190610001500 +0100" channel="RTP 2">
+    <title lang="pt">Stabat Mater - Giovanni Battista Pergolesi</title>
+    <desc lang="pt">Escrito originalmente para as vozes solistas de soprano e contralto, Stabat Mater de Giovanni Battista Pergolesi é interpretado por um dos mais célebres e aplaudidos contratenores da atualidade, Philippe Jaroussky, que forma um duo mágico com a jovem soprano húngara Emoke Barath(n)</desc>
+  </programme>
+  <programme start="20190609020000 +0100" stop="20190609041000 +0100" channel="SIC">
+    <title lang="pt">Planeta dos Macacos: A Revolta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609041000 +0100" stop="20190609052500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609052500 +0100" stop="20190609061500 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E18</episode-num>
+  </programme>
+  <programme start="20190609061500 +0100" stop="20190609063500 +0100" channel="SIC">
+    <title lang="pt">Inspector Gadget 2.0</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190609063500 +0100" stop="20190609065700 +0100" channel="SIC">
+    <title lang="pt">Dragões: Em Busca do Desconhecido</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S4E8</episode-num>
+  </programme>
+  <programme start="20190609065700 +0100" stop="20190609072000 +0100" channel="SIC">
+    <title lang="pt">Dragões: Em Busca do Desconhecido</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S4E9</episode-num>
+  </programme>
+  <programme start="20190609072000 +0100" stop="20190609073000 +0100" channel="SIC">
+    <title lang="pt">Magazine Literacia 3Di</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E14</episode-num>
+  </programme>
+  <programme start="20190609073000 +0100" stop="20190609082000 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S5E4</episode-num>
+  </programme>
+  <programme start="20190609082000 +0100" stop="20190609091000 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190609091000 +0100" stop="20190609121500 +0100" channel="SIC">
+    <title lang="pt">Olhó Baião!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E34</episode-num>
+  </programme>
+  <programme start="20190609121500 +0100" stop="20190609130000 +0100" channel="SIC">
+    <title lang="pt">Vida Selvagem</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609145000 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609145000 +0100" stop="20190609152000 +0100" channel="SIC">
+    <title lang="pt">Fama Show</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E569</episode-num>
+  </programme>
+  <programme start="20190609152000 +0100" stop="20190609154000 +0100" channel="SIC">
+    <title lang="pt">Eu Quero Arrumar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190609154000 +0100" stop="20190609174500 +0100" channel="SIC">
+    <title lang="pt">Harry e Meghan: Um Romance Real</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609174500 +0100" stop="20190609195700 +0100" channel="SIC">
+    <title lang="pt">Harry e Meghan: Um Novo Capítulo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609195700 +0100" stop="20190609215000 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609215000 +0100" stop="20190610000000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190610000000 +0100" stop="20190610011500 +0100" channel="SIC">
+    <title lang="pt">Cabaret da Coxa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190610011500 +0100" stop="20190610031500 +0100" channel="SIC">
+    <title lang="pt">Barely Lethal - Missão Adolescência</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190610031500 +0100" stop="20190610054000 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610054000 +0100" stop="20190610063500 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190610063500 +0100" stop="20190610091000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Especial</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190610091000 +0100" stop="20190610101500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E281</episode-num>
+  </programme>
+  <programme start="20190610101500 +0100" stop="20190610130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E111</episode-num>
+  </programme>
+  <programme start="20190610130000 +0100" stop="20190610141500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610141500 +0100" stop="20190610151500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E25</episode-num>
+  </programme>
+  <programme start="20190610151500 +0100" stop="20190610161000 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E48</episode-num>
+  </programme>
+  <programme start="20190610161000 +0100" stop="20190610181000 +0100" channel="SIC">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E80</episode-num>
+  </programme>
+  <programme start="20190610181000 +0100" stop="20190610190500 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E111</episode-num>
+  </programme>
+  <programme start="20190610190500 +0100" stop="20190610195700 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190610195700 +0100" stop="20190610215000 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610215000 +0100" stop="20190610223500 +0100" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20190610223500 +0100" stop="20190610235500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E224</episode-num>
+  </programme>
+  <programme start="20190610235500 +0100" stop="20190611003500 +0100" channel="SIC">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190611003500 +0100" stop="20190611020000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E91</episode-num>
+  </programme>
+  <programme start="20190611020000 +0100" stop="20190611025500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190611025500 +0100" stop="20190611035000 +0100" channel="SIC">
+    <title lang="pt">O Espírito da Lei</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190611035000 +0100" stop="20190611051500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611051500 +0100" stop="20190611060000 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E20</episode-num>
+  </programme>
+  <programme start="20190611060000 +0100" stop="20190611091500 +0100" channel="SIC">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611091500 +0100" stop="20190611101500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E282</episode-num>
+  </programme>
+  <programme start="20190611101500 +0100" stop="20190611130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E112</episode-num>
+  </programme>
+  <programme start="20190611130000 +0100" stop="20190611150000 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611150000 +0100" stop="20190611161000 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E49</episode-num>
+  </programme>
+  <programme start="20190611161000 +0100" stop="20190611181500 +0100" channel="SIC">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E112</episode-num>
+  </programme>
+  <programme start="20190611181500 +0100" stop="20190611191000 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E112</episode-num>
+  </programme>
+  <programme start="20190611191000 +0100" stop="20190611195700 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190611195700 +0100" stop="20190611215000 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611215000 +0100" stop="20190611223500 +0100" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190611223500 +0100" stop="20190611235500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E225</episode-num>
+  </programme>
+  <programme start="20190611235500 +0100" stop="20190612003500 +0100" channel="SIC">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190612003500 +0100" stop="20190612020000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E92</episode-num>
+  </programme>
+  <programme start="20190612020000 +0100" stop="20190612025500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190612025500 +0100" stop="20190612034500 +0100" channel="SIC">
+    <title lang="pt">O Espírito da Lei</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190612034500 +0100" stop="20190612051500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612051500 +0100" stop="20190612060000 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E21</episode-num>
+  </programme>
+  <programme start="20190612060000 +0100" stop="20190612091500 +0100" channel="SIC">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612091500 +0100" stop="20190612101500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E283</episode-num>
+  </programme>
+  <programme start="20190612101500 +0100" stop="20190612130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E113</episode-num>
+  </programme>
+  <programme start="20190612130000 +0100" stop="20190612141500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612141500 +0100" stop="20190612151500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E26</episode-num>
+  </programme>
+  <programme start="20190612151500 +0100" stop="20190612161000 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E50</episode-num>
+  </programme>
+  <programme start="20190612161000 +0100" stop="20190612181500 +0100" channel="SIC">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E113</episode-num>
+  </programme>
+  <programme start="20190612181500 +0100" stop="20190612191000 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E113</episode-num>
+  </programme>
+  <programme start="20190612191000 +0100" stop="20190612195700 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612195700 +0100" stop="20190612215000 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612215000 +0100" stop="20190612223500 +0100" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20190612223500 +0100" stop="20190612235500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E226</episode-num>
+  </programme>
+  <programme start="20190612235500 +0100" stop="20190613003500 +0100" channel="SIC">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190613003500 +0100" stop="20190613020000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E93</episode-num>
+  </programme>
+  <programme start="20190613020000 +0100" stop="20190613025500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613025500 +0100" stop="20190613035000 +0100" channel="SIC">
+    <title lang="pt">O Espírito da Lei</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190613035000 +0100" stop="20190613060000 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613060000 +0100" stop="20190613090000 +0100" channel="SIC">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613090000 +0100" stop="20190613100000 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E284</episode-num>
+  </programme>
+  <programme start="20190613100000 +0100" stop="20190613130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E114</episode-num>
+  </programme>
+  <programme start="20190613130000 +0100" stop="20190613144500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613144500 +0100" stop="20190613160000 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
+  </programme>
+  <programme start="20190613160000 +0100" stop="20190613180000 +0100" channel="SIC">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E114</episode-num>
+  </programme>
+  <programme start="20190613180000 +0100" stop="20190613190000 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E114</episode-num>
+  </programme>
+  <programme start="20190613190000 +0100" stop="20190613200000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20190613200000 +0100" stop="20190613214500 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613214500 +0100" stop="20190613224500 +0100" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20190613224500 +0100" stop="20190613234500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E227</episode-num>
+  </programme>
+  <programme start="20190613234500 +0100" stop="20190614004500 +0100" channel="SIC">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190614004500 +0100" stop="20190614020000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E94</episode-num>
+  </programme>
+  <programme start="20190614020000 +0100" stop="20190614024500 +0100" channel="SIC">
+    <title lang="pt">Cartaz Cultural</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E821</episode-num>
+  </programme>
+  <programme start="20190614024500 +0100" stop="20190614040000 +0100" channel="SIC">
+    <title lang="pt">Como Isto Anda</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190614040000 +0100" stop="20190614051500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614051500 +0100" stop="20190614060000 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E23</episode-num>
+  </programme>
+  <programme start="20190614060000 +0100" stop="20190614090000 +0100" channel="SIC">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614090000 +0100" stop="20190614100000 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E285</episode-num>
+  </programme>
+  <programme start="20190614100000 +0100" stop="20190614130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E115</episode-num>
+  </programme>
+  <programme start="20190614130000 +0100" stop="20190614141500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614141500 +0100" stop="20190614151500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E27</episode-num>
+  </programme>
+  <programme start="20190614151500 +0100" stop="20190614160000 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E52</episode-num>
+  </programme>
+  <programme start="20190614160000 +0100" stop="20190614180000 +0100" channel="SIC">
+    <title lang="pt">Júlia - Emoções Fortes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E115</episode-num>
+  </programme>
+  <programme start="20190614180000 +0100" stop="20190614190000 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E115</episode-num>
+  </programme>
+  <programme start="20190614190000 +0100" stop="20190614200000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190614200000 +0100" stop="20190614214500 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614214500 +0100" stop="20190614224500 +0100" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190614224500 +0100" stop="20190614234500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E228</episode-num>
+  </programme>
+  <programme start="20190614234500 +0100" stop="20190615004500 +0100" channel="SIC">
+    <title lang="pt">A Dona do Pedaço</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190615004500 +0100" stop="20190615014500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615014500 +0100" stop="20190615024500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190615024500 +0100" stop="20190615051500 +0100" channel="SIC">
+    <title lang="pt">O Espírito da Lei</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190615051500 +0100" stop="20190615060000 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E24</episode-num>
+  </programme>
+  <programme start="20190615060000 +0100" stop="20190615064500 +0100" channel="SIC">
+    <title lang="pt">Etnias</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E24</episode-num>
+  </programme>
+  <programme start="20190615064500 +0100" stop="20190615070700 +0100" channel="SIC">
+    <title lang="pt">Inspector Gadget 2.0 I</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190615070700 +0100" stop="20190615073000 +0100" channel="SIC">
+    <title lang="pt">Dragões: Em Busca do Desconhecido</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S4E10</episode-num>
+  </programme>
+  <programme start="20190615073000 +0100" stop="20190615074500 +0100" channel="SIC">
+    <title lang="pt">Magazine Literacia 3Di</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E15</episode-num>
+  </programme>
+  <programme start="20190615074500 +0100" stop="20190615082200 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S3E15</episode-num>
+  </programme>
+  <programme start="20190615082200 +0100" stop="20190615090000 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S3E16</episode-num>
+  </programme>
+  <programme start="20190615090000 +0100" stop="20190615120000 +0100" channel="SIC">
+    <title lang="pt">Olhó Baião!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
+  </programme>
+  <programme start="20190615120000 +0100" stop="20190615130000 +0100" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190615130000 +0100" stop="20190615141500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615141500 +0100" stop="20190615150000 +0100" channel="SIC">
+    <title lang="pt">Alta Definição</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E471</episode-num>
+  </programme>
+  <programme start="20190615150000 +0100" stop="20190615160000 +0100" channel="SIC">
+    <title lang="pt">E-Especial</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E567</episode-num>
+  </programme>
+  <programme start="20190615160000 +0100" stop="20190615180000 +0100" channel="SIC">
+    <title lang="pt">Cinema Paraíso</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615180000 +0100" stop="20190615200000 +0100" channel="SIC">
+    <title lang="pt">Cinema</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190615200000 +0100" stop="20190615214500 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615214500 +0100" stop="20190615231500 +0100" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E229</episode-num>
+  </programme>
+  <programme start="20190615231500 +0100" stop="20190616014500 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - A Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190609014000 +0100" stop="20190609030900 +0100" channel="TVI">
+    <title lang="pt">O Regresso (2006)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609030900 +0100" stop="20190609032500 +0100" channel="TVI">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190609032500 +0100" stop="20190609044500 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609044500 +0100" stop="20190609061500 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609061500 +0100" stop="20190609063000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190609063000 +0100" stop="20190609074500 +0100" channel="TVI">
+    <title lang="pt">Campeões e Detectives</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190609074500 +0100" stop="20190609084500 +0100" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190609084500 +0100" stop="20190609094500 +0100" channel="TVI">
+    <title lang="pt">O Bando dos Quatro</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190609094500 +0100" stop="20190609103000 +0100" channel="TVI">
+    <title lang="pt">Querido, Mudei a Casa</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609103000 +0100" stop="20190609110000 +0100" channel="TVI">
+    <title lang="pt">Selfie</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609110000 +0100" stop="20190609123000 +0100" channel="TVI">
+    <title lang="pt">Missa - Faria - Barcelos</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609123000 +0100" stop="20190609130000 +0100" channel="TVI">
+    <title lang="pt">Somos Portugal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609140000 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609140000 +0100" stop="20190609195700 +0100" channel="TVI">
+    <title lang="pt">Somos Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E25</episode-num>
+  </programme>
+  <programme start="20190609195700 +0100" stop="20190609214500 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609214500 +0100" stop="20190610003000 +0100" channel="TVI">
+    <title lang="pt">A Tua Cara Não me É Estranha</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610003000 +0100" stop="20190610013000 +0100" channel="TVI">
+    <title lang="pt">Querido, Mudei a Casa</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610013000 +0100" stop="20190610024500 +0100" channel="TVI">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610024500 +0100" stop="20190610034500 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610034500 +0100" stop="20190610043000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610043000 +0100" stop="20190610060000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610060000 +0100" stop="20190610063000 +0100" channel="TVI">
+    <title lang="pt">Todos Iguais</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610063000 +0100" stop="20190610071500 +0100" channel="TVI">
+    <title lang="pt">Campeões e Detectives</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190610071500 +0100" stop="20190610081500 +0100" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190610081500 +0100" stop="20190610100000 +0100" channel="TVI">
+    <title lang="pt">Inspetor Max</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190610100000 +0100" stop="20190610130000 +0100" channel="TVI">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610130000 +0100" stop="20190610144200 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610144200 +0100" stop="20190610161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610161500 +0100" stop="20190610195700 +0100" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610195700 +0100" stop="20190610215000 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610215000 +0100" stop="20190610230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190610230000 +0100" stop="20190611002000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E169</episode-num>
+  </programme>
+  <programme start="20190611002000 +0100" stop="20190611010900 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diários</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611010900 +0100" stop="20190611012900 +0100" channel="TVI">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611012900 +0100" stop="20190611025800 +0100" channel="TVI">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611025800 +0100" stop="20190611035400 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611035400 +0100" stop="20190611050000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611050000 +0100" stop="20190611063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611063000 +0100" stop="20190611100000 +0100" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611100000 +0100" stop="20190611130000 +0100" channel="TVI">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611130000 +0100" stop="20190611144200 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611144200 +0100" stop="20190611161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611161500 +0100" stop="20190611195700 +0100" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611195700 +0100" stop="20190611215000 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611215000 +0100" stop="20190611230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20190611230000 +0100" stop="20190612000000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E170</episode-num>
+  </programme>
+  <programme start="20190612000000 +0100" stop="20190612005100 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diários</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612005100 +0100" stop="20190612012100 +0100" channel="TVI">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612012100 +0100" stop="20190612025600 +0100" channel="TVI">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612025600 +0100" stop="20190612035100 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612035100 +0100" stop="20190612050000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612050000 +0100" stop="20190612063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612063000 +0100" stop="20190612100000 +0100" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612100000 +0100" stop="20190612130000 +0100" channel="TVI">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612130000 +0100" stop="20190612144200 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612144200 +0100" stop="20190612161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612161500 +0100" stop="20190612195700 +0100" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612195700 +0100" stop="20190612215000 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612215000 +0100" stop="20190612230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E20</episode-num>
+  </programme>
+  <programme start="20190612230000 +0100" stop="20190613000000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E171</episode-num>
+  </programme>
+  <programme start="20190613000000 +0100" stop="20190613010000 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diários</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613010000 +0100" stop="20190613012000 +0100" channel="TVI">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613012000 +0100" stop="20190613025300 +0100" channel="TVI">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613025300 +0100" stop="20190613034800 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613034800 +0100" stop="20190613050000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613050000 +0100" stop="20190613063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613063000 +0100" stop="20190613100000 +0100" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613100000 +0100" stop="20190613130000 +0100" channel="TVI">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613130000 +0100" stop="20190613144200 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613144200 +0100" stop="20190613161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613161500 +0100" stop="20190613195700 +0100" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613195700 +0100" stop="20190613215500 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613215500 +0100" stop="20190613230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E21</episode-num>
+  </programme>
+  <programme start="20190613230000 +0100" stop="20190614000000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E172</episode-num>
+  </programme>
+  <programme start="20190614000000 +0100" stop="20190614003000 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diários</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614003000 +0100" stop="20190614010700 +0100" channel="TVI">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614010700 +0100" stop="20190614040000 +0100" channel="TVI">
+    <title lang="pt">Autores - Gonçalo Salgueiro</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614040000 +0100" stop="20190614050000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614050000 +0100" stop="20190614063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614063000 +0100" stop="20190614100000 +0100" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614100000 +0100" stop="20190614130000 +0100" channel="TVI">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614130000 +0100" stop="20190614144200 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614144200 +0100" stop="20190614161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614161500 +0100" stop="20190614195700 +0100" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614195700 +0100" stop="20190614215500 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614215500 +0100" stop="20190614230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20190614230000 +0100" stop="20190615000000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E173</episode-num>
+  </programme>
+  <programme start="20190615000000 +0100" stop="20190615003000 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diários</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615003000 +0100" stop="20190615011100 +0100" channel="TVI">
+    <title lang="pt">Meu Amor</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615011100 +0100" stop="20190615023800 +0100" channel="TVI">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615023800 +0100" stop="20190615033800 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615033800 +0100" stop="20190615044500 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615044500 +0100" stop="20190615061500 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615061500 +0100" stop="20190615063000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190615063000 +0100" stop="20190615071500 +0100" channel="TVI">
+    <title lang="pt">Campeões e Detectives</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190615071500 +0100" stop="20190615081500 +0100" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190615081500 +0100" stop="20190615091500 +0100" channel="TVI">
+    <title lang="pt">O Bando dos Quatro</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190615091500 +0100" stop="20190615130000 +0100" channel="TVI">
+    <title lang="pt">Inspetor Max</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190615130000 +0100" stop="20190615144500 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615144500 +0100" stop="20190615195700 +0100" channel="TVI">
+    <title lang="pt">Conta-me Como És</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615195700 +0100" stop="20190615214500 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615214500 +0100" stop="20190615230000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20190615230000 +0100" stop="20190616023000 +0100" channel="TVI">
+    <title lang="pt">Like Me - Live Show</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>
