@@ -18,9 +18,21 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ARTV (Canal Parlamento)">
-    <display-name lang="pt">ARTV (Canal Parlamento)</display-name>
-    <url>http://www.portalnacional.com.pt</url>
+  <channel id="SICN">
+    <display-name lang="pt">SICN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP3">
+    <display-name lang="pt">RTP3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt</url>
   </channel>
   <programme start="20190609013200 +0100" stop="20190609022200 +0100" channel="RTP 1">
     <title lang="pt">A3.30:T1 Ep.19</title>
@@ -1307,8 +1319,3282 @@
     <title lang="pt">Like Me - Live Show</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20190609014000 +0100" stop="20190616023000 +0100" channel="ARTV (Canal Parlamento)">
-    <title lang="pt">Sem descrição</title>
-    <category lang="pt">Sem descrição</category>
+  <programme start="20190609010000 +0100" stop="20190609013500 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190609013500 +0100" stop="20190609022000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E36</episode-num>
+  </programme>
+  <programme start="20190609022000 +0100" stop="20190609023000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E21</episode-num>
+  </programme>
+  <programme start="20190609023000 +0100" stop="20190609030000 +0100" channel="SICN">
+    <title lang="pt">E Se Fosse Consigo?</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190609030000 +0100" stop="20190609033500 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190609033500 +0100" stop="20190609034500 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190609034500 +0100" stop="20190609035500 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190609035500 +0100" stop="20190609040000 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E65</episode-num>
+  </programme>
+  <programme start="20190609040000 +0100" stop="20190609041500 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E8</episode-num>
+  </programme>
+  <programme start="20190609041500 +0100" stop="20190609051500 +0100" channel="SICN">
+    <title lang="pt">Expresso da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E20</episode-num>
+  </programme>
+  <programme start="20190609051500 +0100" stop="20190609060000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E36</episode-num>
+  </programme>
+  <programme start="20190609060000 +0100" stop="20190609070000 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190609070000 +0100" stop="20190609072000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609072000 +0100" stop="20190609073000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E14</episode-num>
+  </programme>
+  <programme start="20190609073000 +0100" stop="20190609074500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609074500 +0100" stop="20190609080000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190609080000 +0100" stop="20190609082000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609082000 +0100" stop="20190609083000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E23</episode-num>
+  </programme>
+  <programme start="20190609083000 +0100" stop="20190609084500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609084500 +0100" stop="20190609090000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190609090000 +0100" stop="20190609091500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609091500 +0100" stop="20190609093000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E19</episode-num>
+  </programme>
+  <programme start="20190609093000 +0100" stop="20190609094500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609094500 +0100" stop="20190609100000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E21</episode-num>
+  </programme>
+  <programme start="20190609100000 +0100" stop="20190609104000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609104000 +0100" stop="20190609110000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E23</episode-num>
+  </programme>
+  <programme start="20190609110000 +0100" stop="20190609114000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609114000 +0100" stop="20190609120000 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190609120000 +0100" stop="20190609130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609140000 +0100" channel="SICN">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609140000 +0100" stop="20190609144000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609144000 +0100" stop="20190609150000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E14</episode-num>
+  </programme>
+  <programme start="20190609150000 +0100" stop="20190609151500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609151500 +0100" stop="20190609160000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E36</episode-num>
+  </programme>
+  <programme start="20190609160000 +0100" stop="20190609193000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609193000 +0100" stop="20190609195700 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E8</episode-num>
+  </programme>
+  <programme start="20190609195700 +0100" stop="20190609210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609210000 +0100" stop="20190609223000 +0100" channel="SICN">
+    <title lang="pt">Jornal de Domingo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609223000 +0100" stop="20190610003000 +0100" channel="SICN">
+    <title lang="pt">Play-Off</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S3E23</episode-num>
+  </programme>
+  <programme start="20190610003000 +0100" stop="20190610013000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610013000 +0100" stop="20190610020000 +0100" channel="SICN">
+    <title lang="pt">Comentário de Luís Marques Mendes</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E21</episode-num>
+  </programme>
+  <programme start="20190610020000 +0100" stop="20190610035500 +0100" channel="SICN">
+    <title lang="pt">Play-Off</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S3E23</episode-num>
+  </programme>
+  <programme start="20190610035500 +0100" stop="20190610040000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E23</episode-num>
+  </programme>
+  <programme start="20190610040000 +0100" stop="20190610041000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E14</episode-num>
+  </programme>
+  <programme start="20190610041000 +0100" stop="20190610044500 +0100" channel="SICN">
+    <title lang="pt">E Se Fosse Consigo?</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190610044500 +0100" stop="20190610045500 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E23</episode-num>
+  </programme>
+  <programme start="20190610045500 +0100" stop="20190610051000 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190610051000 +0100" stop="20190610060000 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190610060000 +0100" stop="20190610061000 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E13</episode-num>
+  </programme>
+  <programme start="20190610061000 +0100" stop="20190610070000 +0100" channel="SICN">
+    <title lang="pt">Magazine Liga Europa</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20190610070000 +0100" stop="20190610072000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610072000 +0100" stop="20190610073000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E19</episode-num>
+  </programme>
+  <programme start="20190610073000 +0100" stop="20190610074500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610074500 +0100" stop="20190610080000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190610080000 +0100" stop="20190610081500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610081500 +0100" stop="20190610083000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E14</episode-num>
+  </programme>
+  <programme start="20190610083000 +0100" stop="20190610084500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610084500 +0100" stop="20190610090000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190610090000 +0100" stop="20190610092000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610092000 +0100" stop="20190610093000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E14</episode-num>
+  </programme>
+  <programme start="20190610093000 +0100" stop="20190610095000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610095000 +0100" stop="20190610100000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E23</episode-num>
+  </programme>
+  <programme start="20190610100000 +0100" stop="20190610120000 +0100" channel="SICN">
+    <title lang="pt">Comemorações 10 de Junho</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610120000 +0100" stop="20190610130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610130000 +0100" stop="20190610140000 +0100" channel="SICN">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610140000 +0100" stop="20190610144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610144500 +0100" stop="20190610150000 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190610150000 +0100" stop="20190610152000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610152000 +0100" stop="20190610160000 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190610160000 +0100" stop="20190610164000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610164000 +0100" stop="20190610170000 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E8</episode-num>
+  </programme>
+  <programme start="20190610170000 +0100" stop="20190610185500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610185500 +0100" stop="20190610195700 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610195700 +0100" stop="20190610210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610210000 +0100" stop="20190610220000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610220000 +0100" stop="20190611000000 +0100" channel="SICN">
+    <title lang="pt">O Dia Seguinte</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E22</episode-num>
+  </programme>
+  <programme start="20190611000000 +0100" stop="20190611010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611010000 +0100" stop="20190611012500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611012500 +0100" stop="20190611014500 +0100" channel="SICN">
+    <title lang="pt">A Procuradora</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E20</episode-num>
+  </programme>
+  <programme start="20190611014500 +0100" stop="20190611033500 +0100" channel="SICN">
+    <title lang="pt">O Dia Seguinte</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E22</episode-num>
+  </programme>
+  <programme start="20190611033500 +0100" stop="20190611034000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E23</episode-num>
+  </programme>
+  <programme start="20190611034000 +0100" stop="20190611035500 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E8</episode-num>
+  </programme>
+  <programme start="20190611035500 +0100" stop="20190611040500 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E14</episode-num>
+  </programme>
+  <programme start="20190611040500 +0100" stop="20190611043000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611043000 +0100" stop="20190611044500 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190611044500 +0100" stop="20190611045500 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190611045500 +0100" stop="20190611053500 +0100" channel="SICN">
+    <title lang="pt">E Se Fosse Consigo?</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190611053500 +0100" stop="20190611060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611060000 +0100" stop="20190611094500 +0100" channel="SICN">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611094500 +0100" stop="20190611100000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E19</episode-num>
+  </programme>
+  <programme start="20190611100000 +0100" stop="20190611110000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611110000 +0100" stop="20190611111000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611111000 +0100" stop="20190611120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611120000 +0100" stop="20190611130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611130000 +0100" stop="20190611132500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611132500 +0100" stop="20190611134500 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190611134500 +0100" stop="20190611142500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611142500 +0100" stop="20190611163000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611163000 +0100" stop="20190611170000 +0100" channel="SICN">
+    <title lang="pt">Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611170000 +0100" stop="20190611173000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611173000 +0100" stop="20190611185500 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611185500 +0100" stop="20190611195700 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611195700 +0100" stop="20190611210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611210000 +0100" stop="20190611223500 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611223500 +0100" stop="20190611230000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611230000 +0100" stop="20190612000000 +0100" channel="SICN">
+    <title lang="pt">Tempo Extra</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S6E23</episode-num>
+  </programme>
+  <programme start="20190612000000 +0100" stop="20190612010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612010000 +0100" stop="20190612013000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612013000 +0100" stop="20190612020500 +0100" channel="SICN">
+    <title lang="pt">E Se Fosse Consigo?</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E5</episode-num>
+  </programme>
+  <programme start="20190612020500 +0100" stop="20190612023500 +0100" channel="SICN">
+    <title lang="pt">As Causas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20190612023500 +0100" stop="20190612033000 +0100" channel="SICN">
+    <title lang="pt">Tempo Extra</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S6E23</episode-num>
+  </programme>
+  <programme start="20190612033000 +0100" stop="20190612043000 +0100" channel="SICN">
+    <title lang="pt">Toda a Verdade: Migrantes, Uma Viagem Pelo Inferno</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190612043000 +0100" stop="20190612045500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612045500 +0100" stop="20190612051000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E23</episode-num>
+  </programme>
+  <programme start="20190612051000 +0100" stop="20190612052000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E14</episode-num>
+  </programme>
+  <programme start="20190612052000 +0100" stop="20190612053500 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190612053500 +0100" stop="20190612060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612060000 +0100" stop="20190612094500 +0100" channel="SICN">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612094500 +0100" stop="20190612100000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E14</episode-num>
+  </programme>
+  <programme start="20190612100000 +0100" stop="20190612110000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612110000 +0100" stop="20190612111000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612111000 +0100" stop="20190612120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612120000 +0100" stop="20190612130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612130000 +0100" stop="20190612133500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612133500 +0100" stop="20190612134500 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190612134500 +0100" stop="20190612142500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612142500 +0100" stop="20190612163000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612163000 +0100" stop="20190612170000 +0100" channel="SICN">
+    <title lang="pt">Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612170000 +0100" stop="20190612173000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612173000 +0100" stop="20190612185500 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612185500 +0100" stop="20190612195800 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612195800 +0100" stop="20190612210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612210000 +0100" stop="20190612223500 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612223500 +0100" stop="20190612230000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612230000 +0100" stop="20190613000000 +0100" channel="SICN">
+    <title lang="pt">Negócios da Semana</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E13</episode-num>
+  </programme>
+  <programme start="20190613000000 +0100" stop="20190613010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613010000 +0100" stop="20190613012500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613012500 +0100" stop="20190613014000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E115</episode-num>
+  </programme>
+  <programme start="20190613014000 +0100" stop="20190613024000 +0100" channel="SICN">
+    <title lang="pt">Toda a Verdade</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190613024000 +0100" stop="20190613030500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613030500 +0100" stop="20190613040000 +0100" channel="SICN">
+    <title lang="pt">Negócios da Semana</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E13</episode-num>
+  </programme>
+  <programme start="20190613040000 +0100" stop="20190613041000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E19</episode-num>
+  </programme>
+  <programme start="20190613041000 +0100" stop="20190613043500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613043500 +0100" stop="20190613051000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E36</episode-num>
+  </programme>
+  <programme start="20190613051000 +0100" stop="20190613052000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190613052000 +0100" stop="20190613053500 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E115</episode-num>
+  </programme>
+  <programme start="20190613053500 +0100" stop="20190613060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613060000 +0100" stop="20190613094500 +0100" channel="SICN">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613094500 +0100" stop="20190613100000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E14</episode-num>
+  </programme>
+  <programme start="20190613100000 +0100" stop="20190613110000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613110000 +0100" stop="20190613120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613120000 +0100" stop="20190613130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613130000 +0100" stop="20190613133000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613133000 +0100" stop="20190613134500 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E8</episode-num>
+  </programme>
+  <programme start="20190613134500 +0100" stop="20190613144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613144500 +0100" stop="20190613150000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E116</episode-num>
+  </programme>
+  <programme start="20190613150000 +0100" stop="20190613160000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E20</episode-num>
+  </programme>
+  <programme start="20190613160000 +0100" stop="20190613163000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613163000 +0100" stop="20190613170000 +0100" channel="SICN">
+    <title lang="pt">Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613170000 +0100" stop="20190613180000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613180000 +0100" stop="20190613190000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613190000 +0100" stop="20190613200000 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613200000 +0100" stop="20190613210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613210000 +0100" stop="20190613220000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613220000 +0100" stop="20190613223000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613223000 +0100" stop="20190613230000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613230000 +0100" stop="20190614000000 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E25</episode-num>
+  </programme>
+  <programme start="20190614000000 +0100" stop="20190614010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614010000 +0100" stop="20190614013000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614013000 +0100" stop="20190614014500 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E116</episode-num>
+  </programme>
+  <programme start="20190614014500 +0100" stop="20190614023000 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E25</episode-num>
+  </programme>
+  <programme start="20190614023000 +0100" stop="20190614031500 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190614031500 +0100" stop="20190614034500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614034500 +0100" stop="20190614041500 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190614041500 +0100" stop="20190614044500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614044500 +0100" stop="20190614053000 +0100" channel="SICN">
+    <title lang="pt">Toda a Verdade</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190614053000 +0100" stop="20190614060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614060000 +0100" stop="20190614094500 +0100" channel="SICN">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614094500 +0100" stop="20190614100000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190614100000 +0100" stop="20190614110000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614110000 +0100" stop="20190614120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614120000 +0100" stop="20190614130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614130000 +0100" stop="20190614133000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614133000 +0100" stop="20190614134500 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E23</episode-num>
+  </programme>
+  <programme start="20190614134500 +0100" stop="20190614144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614144500 +0100" stop="20190614150000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E117</episode-num>
+  </programme>
+  <programme start="20190614150000 +0100" stop="20190614163000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614163000 +0100" stop="20190614170000 +0100" channel="SICN">
+    <title lang="pt">Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614170000 +0100" stop="20190614180000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614180000 +0100" stop="20190614190000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614190000 +0100" stop="20190614200000 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614200000 +0100" stop="20190614210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614210000 +0100" stop="20190614220000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614220000 +0100" stop="20190614223000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614223000 +0100" stop="20190614230000 +0100" channel="SICN">
+    <title lang="pt">Mercado Aberto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614230000 +0100" stop="20190615000000 +0100" channel="SICN">
+    <title lang="pt">Expresso da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E21</episode-num>
+  </programme>
+  <programme start="20190615000000 +0100" stop="20190615010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615010000 +0100" stop="20190615013000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615013000 +0100" stop="20190615014500 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E117</episode-num>
+  </programme>
+  <programme start="20190615014500 +0100" stop="20190615024500 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190615024500 +0100" stop="20190615031500 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615031500 +0100" stop="20190615040000 +0100" channel="SICN">
+    <title lang="pt">Expresso da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E21</episode-num>
+  </programme>
+  <programme start="20190615040000 +0100" stop="20190615041500 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E10</episode-num>
+  </programme>
+  <programme start="20190615041500 +0100" stop="20190615043000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615043000 +0100" stop="20190615051500 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E25</episode-num>
+  </programme>
+  <programme start="20190615051500 +0100" stop="20190615053000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E117</episode-num>
+  </programme>
+  <programme start="20190615053000 +0100" stop="20190615060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615060000 +0100" stop="20190615063000 +0100" channel="SICN">
+    <title lang="pt">E Se Fosse Consigo?</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190615063000 +0100" stop="20190615070000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615070000 +0100" stop="20190615071500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615071500 +0100" stop="20190615073000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E22</episode-num>
+  </programme>
+  <programme start="20190615073000 +0100" stop="20190615074500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615074500 +0100" stop="20190615080000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E24</episode-num>
+  </programme>
+  <programme start="20190615080000 +0100" stop="20190615081500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615081500 +0100" stop="20190615083000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E15</episode-num>
+  </programme>
+  <programme start="20190615083000 +0100" stop="20190615084500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615084500 +0100" stop="20190615090000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E20</episode-num>
+  </programme>
+  <programme start="20190615090000 +0100" stop="20190615091500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615091500 +0100" stop="20190615093000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E15</episode-num>
+  </programme>
+  <programme start="20190615093000 +0100" stop="20190615094500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615094500 +0100" stop="20190615100000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E24</episode-num>
+  </programme>
+  <programme start="20190615100000 +0100" stop="20190615110000 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615110000 +0100" stop="20190615114500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615114500 +0100" stop="20190615120000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E11</episode-num>
+  </programme>
+  <programme start="20190615120000 +0100" stop="20190615130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615130000 +0100" stop="20190615140000 +0100" channel="SICN">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615140000 +0100" stop="20190615144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615144500 +0100" stop="20190615150000 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E9</episode-num>
+  </programme>
+  <programme start="20190615150000 +0100" stop="20190615160000 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E25</episode-num>
+  </programme>
+  <programme start="20190615160000 +0100" stop="20190615164500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615164500 +0100" stop="20190615170000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E22</episode-num>
+  </programme>
+  <programme start="20190615170000 +0100" stop="20190615174500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615174500 +0100" stop="20190615180000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E24</episode-num>
+  </programme>
+  <programme start="20190615180000 +0100" stop="20190615184500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615184500 +0100" stop="20190615190000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E15</episode-num>
+  </programme>
+  <programme start="20190615190000 +0100" stop="20190615200000 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615200000 +0100" stop="20190615210000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615210000 +0100" stop="20190615220000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615220000 +0100" stop="20190616000000 +0100" channel="SICN">
+    <title lang="pt">Jornal de Sábado</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609010000 +0100" stop="20190609015000 +0100" channel="RTP3">
+    <title lang="pt">Até à Última Gota - A Secreta Guerra da Água na Europa</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190609015000 +0100" stop="20190609020500 +0100" channel="RTP3">
+    <title lang="pt">Futsal</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20190609020500 +0100" stop="20190609030000 +0100" channel="RTP3">
+    <title lang="pt">A Grandiosa Enciclopédia do Ludopédio</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S6E19</episode-num>
+  </programme>
+  <programme start="20190609030000 +0100" stop="20190609032500 +0100" channel="RTP3">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E23</episode-num>
+  </programme>
+  <programme start="20190609032500 +0100" stop="20190609041000 +0100" channel="RTP3">
+    <title lang="pt">Parlamento</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609041000 +0100" stop="20190609041500 +0100" channel="RTP3">
+    <title lang="pt">Fotobox</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190609041500 +0100" stop="20190609043500 +0100" channel="RTP3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190609043500 +0100" stop="20190609044500 +0100" channel="RTP3">
+    <title lang="pt">Tech 3</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190609044500 +0100" stop="20190609051500 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609051500 +0100" stop="20190609054500 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609054500 +0100" stop="20190609060000 +0100" channel="RTP3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E11</episode-num>
+  </programme>
+  <programme start="20190609060000 +0100" stop="20190609070000 +0100" channel="RTP3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190609070000 +0100" stop="20190609073000 +0100" channel="RTP3">
+    <title lang="pt">África Global</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609073000 +0100" stop="20190609080000 +0100" channel="RTP3">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190609080000 +0100" stop="20190609103000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609103000 +0100" stop="20190609110000 +0100" channel="RTP3">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S21E18</episode-num>
+  </programme>
+  <programme start="20190609110000 +0100" stop="20190609111000 +0100" channel="RTP3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609111000 +0100" stop="20190609114200 +0100" channel="RTP3">
+    <title lang="pt">Visita Guiada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S9E7</episode-num>
+  </programme>
+  <programme start="20190609114200 +0100" stop="20190609120000 +0100" channel="RTP3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190609120000 +0100" stop="20190609130000 +0100" channel="RTP3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609135000 +0100" channel="RTP3">
+    <title lang="pt">GPS</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E86</episode-num>
+  </programme>
+  <programme start="20190609135000 +0100" stop="20190609143000 +0100" channel="RTP3">
+    <title lang="pt">Tecnet</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E12</episode-num>
+  </programme>
+  <programme start="20190609143000 +0100" stop="20190609143500 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609143500 +0100" stop="20190609150000 +0100" channel="RTP3">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E23</episode-num>
+  </programme>
+  <programme start="20190609150000 +0100" stop="20190609153000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609153000 +0100" stop="20190609155000 +0100" channel="RTP3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E11</episode-num>
+  </programme>
+  <programme start="20190609155000 +0100" stop="20190609160000 +0100" channel="RTP3">
+    <title lang="pt">Tech 3</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190609160000 +0100" stop="20190609161300 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609161300 +0100" stop="20190609170000 +0100" channel="RTP3">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E23</episode-num>
+  </programme>
+  <programme start="20190609170000 +0100" stop="20190609173000 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609173000 +0100" stop="20190609194000 +0100" channel="RTP3">
+    <title lang="pt">Especial 3: Pré-Match da Final da Liga das Nações</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609194000 +0100" stop="20190609200000 +0100" channel="RTP3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190609200000 +0100" stop="20190609210000 +0100" channel="RTP3">
+    <title lang="pt">3 às 20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609210000 +0100" stop="20190609215000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609215000 +0100" stop="20190610000000 +0100" channel="RTP3">
+    <title lang="pt">Especial 3: Pós-Match da Final da Liga das Nações</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610000000 +0100" stop="20190610010000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610010000 +0100" stop="20190610030000 +0100" channel="RTP3">
+    <title lang="pt">Especial 3: Pós-Match da Final da Liga das Nações</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610030000 +0100" stop="20190610040000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné - 1ª Etapa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610040000 +0100" stop="20190610044000 +0100" channel="RTP3">
+    <title lang="pt">Olhar o Mundo</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S6E23</episode-num>
+  </programme>
+  <programme start="20190610044000 +0100" stop="20190610051000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610051000 +0100" stop="20190610054000 +0100" channel="RTP3">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610054000 +0100" stop="20190610061000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610061000 +0100" stop="20190610063000 +0100" channel="RTP3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190610063000 +0100" stop="20190610083000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610083000 +0100" stop="20190610084000 +0100" channel="RTP3">
+    <title lang="pt">Mundo Automóvel</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610084000 +0100" stop="20190610102500 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610102500 +0100" stop="20190610130000 +0100" channel="RTP3">
+    <title lang="pt">Cerimónias Oficiais 10 de Junho</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610130000 +0100" stop="20190610140000 +0100" channel="RTP3">
+    <title lang="pt">A Oposição Russa</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190610140000 +0100" stop="20190610150000 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610150000 +0100" stop="20190610155000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610155000 +0100" stop="20190610160000 +0100" channel="RTP3">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610160000 +0100" stop="20190610170000 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610170000 +0100" stop="20190610174500 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610174500 +0100" stop="20190610180000 +0100" channel="RTP3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190610180000 +0100" stop="20190610195000 +0100" channel="RTP3">
+    <title lang="pt">18/20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610195000 +0100" stop="20190610200000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610200000 +0100" stop="20190610210000 +0100" channel="RTP3">
+    <title lang="pt">A Turquia segundo Erdogan</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190610210000 +0100" stop="20190610230000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610230000 +0100" stop="20190610230500 +0100" channel="RTP3">
+    <title lang="pt">3 às 23</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610230500 +0100" stop="20190611000000 +0100" channel="RTP3">
+    <title lang="pt">Tudo é Economia</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E20</episode-num>
+  </programme>
+  <programme start="20190611000000 +0100" stop="20190611013000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611013000 +0100" stop="20190611014000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611014000 +0100" stop="20190611020500 +0100" channel="RTP3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190611020500 +0100" stop="20190611031000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné - 2ª Etapa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611031000 +0100" stop="20190611040500 +0100" channel="RTP3">
+    <title lang="pt">Tudo é Economia</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E20</episode-num>
+  </programme>
+  <programme start="20190611040500 +0100" stop="20190611043000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611043000 +0100" stop="20190611050000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611050000 +0100" stop="20190611053000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611053000 +0100" stop="20190611060000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611060000 +0100" stop="20190611063000 +0100" channel="RTP3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611063000 +0100" stop="20190611083000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611083000 +0100" stop="20190611083500 +0100" channel="RTP3">
+    <title lang="pt">Mundo Automóvel</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611083500 +0100" stop="20190611100000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611100000 +0100" stop="20190611110000 +0100" channel="RTP3">
+    <title lang="pt">3 às 10</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611110000 +0100" stop="20190611120000 +0100" channel="RTP3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611120000 +0100" stop="20190611130000 +0100" channel="RTP3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611130000 +0100" stop="20190611140000 +0100" channel="RTP3">
+    <title lang="pt">A Turquia segundo Erdogan</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190611140000 +0100" stop="20190611150000 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611150000 +0100" stop="20190611153000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611153000 +0100" stop="20190611155000 +0100" channel="RTP3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611155000 +0100" stop="20190611160000 +0100" channel="RTP3">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611160000 +0100" stop="20190611170000 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611170000 +0100" stop="20190611174500 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611174500 +0100" stop="20190611180000 +0100" channel="RTP3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190611180000 +0100" stop="20190611195000 +0100" channel="RTP3">
+    <title lang="pt">18/20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611195000 +0100" stop="20190611200000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611200000 +0100" stop="20190611210000 +0100" channel="RTP3">
+    <title lang="pt">Por Dentro do Exército Feminino</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190611210000 +0100" stop="20190611230000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611230000 +0100" stop="20190611230500 +0100" channel="RTP3">
+    <title lang="pt">3 às 23</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611230500 +0100" stop="20190612000000 +0100" channel="RTP3">
+    <title lang="pt">O Outro Lado</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E23</episode-num>
+  </programme>
+  <programme start="20190612000000 +0100" stop="20190612013000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612013000 +0100" stop="20190612014000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612014000 +0100" stop="20190612020000 +0100" channel="RTP3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190612020000 +0100" stop="20190612030000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné - 3ª Etapa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612030000 +0100" stop="20190612035500 +0100" channel="RTP3">
+    <title lang="pt">O Outro Lado</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E23</episode-num>
+  </programme>
+  <programme start="20190612035500 +0100" stop="20190612042000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612042000 +0100" stop="20190612045000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612045000 +0100" stop="20190612052000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612052000 +0100" stop="20190612055000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612055000 +0100" stop="20190612063000 +0100" channel="RTP3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612063000 +0100" stop="20190612083000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612083000 +0100" stop="20190612084000 +0100" channel="RTP3">
+    <title lang="pt">Mundo Automóvel</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612084000 +0100" stop="20190612100000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612100000 +0100" stop="20190612110000 +0100" channel="RTP3">
+    <title lang="pt">3 às 10</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612110000 +0100" stop="20190612120000 +0100" channel="RTP3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612120000 +0100" stop="20190612130000 +0100" channel="RTP3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612130000 +0100" stop="20190612140000 +0100" channel="RTP3">
+    <title lang="pt">Por Dentro do Exército Feminino</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190612140000 +0100" stop="20190612150000 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612150000 +0100" stop="20190612153000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612153000 +0100" stop="20190612155000 +0100" channel="RTP3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612155000 +0100" stop="20190612160000 +0100" channel="RTP3">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612160000 +0100" stop="20190612170000 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612170000 +0100" stop="20190612180000 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612180000 +0100" stop="20190612195000 +0100" channel="RTP3">
+    <title lang="pt">18/20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612195000 +0100" stop="20190612200000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612200000 +0100" stop="20190612210000 +0100" channel="RTP3">
+    <title lang="pt">Franquismo no banco dos réus</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190612210000 +0100" stop="20190612230000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612230000 +0100" stop="20190612230500 +0100" channel="RTP3">
+    <title lang="pt">3 às 23</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612230500 +0100" stop="20190613000000 +0100" channel="RTP3">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E18</episode-num>
+  </programme>
+  <programme start="20190613000000 +0100" stop="20190613013000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613013000 +0100" stop="20190613014500 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613014500 +0100" stop="20190613025000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613025000 +0100" stop="20190613031000 +0100" channel="RTP3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190613031000 +0100" stop="20190613040500 +0100" channel="RTP3">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E18</episode-num>
+  </programme>
+  <programme start="20190613040500 +0100" stop="20190613043000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613043000 +0100" stop="20190613050000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613050000 +0100" stop="20190613053000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613053000 +0100" stop="20190613060000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613060000 +0100" stop="20190613062000 +0100" channel="RTP3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613062000 +0100" stop="20190613063000 +0100" channel="RTP3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E11</episode-num>
+  </programme>
+  <programme start="20190613063000 +0100" stop="20190613083000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613083000 +0100" stop="20190613083500 +0100" channel="RTP3">
+    <title lang="pt">Mundo Automóvel</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613083500 +0100" stop="20190613100000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613100000 +0100" stop="20190613113000 +0100" channel="RTP3">
+    <title lang="pt">3 às 10</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613113000 +0100" stop="20190613120000 +0100" channel="RTP3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613120000 +0100" stop="20190613130000 +0100" channel="RTP3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613130000 +0100" stop="20190613140000 +0100" channel="RTP3">
+    <title lang="pt">Franquismo no banco dos réus</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190613140000 +0100" stop="20190613150000 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613150000 +0100" stop="20190613153000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613153000 +0100" stop="20190613154500 +0100" channel="RTP3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613154500 +0100" stop="20190613160000 +0100" channel="RTP3">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613160000 +0100" stop="20190613170000 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613170000 +0100" stop="20190613180000 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613180000 +0100" stop="20190613194500 +0100" channel="RTP3">
+    <title lang="pt">18/20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613194500 +0100" stop="20190613200000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613200000 +0100" stop="20190613210000 +0100" channel="RTP3">
+    <title lang="pt">Um dia no Reino Unido</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190613210000 +0100" stop="20190613230000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613230000 +0100" stop="20190613230500 +0100" channel="RTP3">
+    <title lang="pt">3 às 23</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613230500 +0100" stop="20190614000000 +0100" channel="RTP3">
+    <title lang="pt">Grande Área</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E24</episode-num>
+  </programme>
+  <programme start="20190614000000 +0100" stop="20190614013000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614013000 +0100" stop="20190614014500 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614014500 +0100" stop="20190614025000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné - 5ª Etapa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614025000 +0100" stop="20190614031000 +0100" channel="RTP3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190614031000 +0100" stop="20190614040000 +0100" channel="RTP3">
+    <title lang="pt">Grande Área</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E24</episode-num>
+  </programme>
+  <programme start="20190614040000 +0100" stop="20190614042000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614042000 +0100" stop="20190614045000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614045000 +0100" stop="20190614052000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614052000 +0100" stop="20190614055000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614055000 +0100" stop="20190614063000 +0100" channel="RTP3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614063000 +0100" stop="20190614083000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614083000 +0100" stop="20190614083500 +0100" channel="RTP3">
+    <title lang="pt">Mundo Automóvel</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614083500 +0100" stop="20190614100000 +0100" channel="RTP3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614100000 +0100" stop="20190614110000 +0100" channel="RTP3">
+    <title lang="pt">3 às 10</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614110000 +0100" stop="20190614120000 +0100" channel="RTP3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614120000 +0100" stop="20190614130000 +0100" channel="RTP3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614130000 +0100" stop="20190614133000 +0100" channel="RTP3">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S21E19</episode-num>
+  </programme>
+  <programme start="20190614133000 +0100" stop="20190614134500 +0100" channel="RTP3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E11</episode-num>
+  </programme>
+  <programme start="20190614134500 +0100" stop="20190614140000 +0100" channel="RTP3">
+    <title lang="pt">Fotobox</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E5</episode-num>
+  </programme>
+  <programme start="20190614140000 +0100" stop="20190614150000 +0100" channel="RTP3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614150000 +0100" stop="20190614153000 +0100" channel="RTP3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614153000 +0100" stop="20190614154500 +0100" channel="RTP3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614154500 +0100" stop="20190614160000 +0100" channel="RTP3">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614160000 +0100" stop="20190614170000 +0100" channel="RTP3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614170000 +0100" stop="20190614180000 +0100" channel="RTP3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614180000 +0100" stop="20190614194500 +0100" channel="RTP3">
+    <title lang="pt">18/20</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614194500 +0100" stop="20190614200000 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614200000 +0100" stop="20190614203500 +0100" channel="RTP3">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S21E19</episode-num>
+  </programme>
+  <programme start="20190614203500 +0100" stop="20190614210000 +0100" channel="RTP3">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E24</episode-num>
+  </programme>
+  <programme start="20190614210000 +0100" stop="20190614230000 +0100" channel="RTP3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614230000 +0100" stop="20190614230500 +0100" channel="RTP3">
+    <title lang="pt">3 às 23</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614230500 +0100" stop="20190615000000 +0100" channel="RTP3">
+    <title lang="pt">O Último Apaga a Luz</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E22</episode-num>
+  </programme>
+  <programme start="20190615000000 +0100" stop="20190615010000 +0100" channel="RTP3">
+    <title lang="pt">24 Horas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615010000 +0100" stop="20190615015000 +0100" channel="RTP3">
+    <title lang="pt">Mundo Sem Muros</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E23</episode-num>
+  </programme>
+  <programme start="20190615015000 +0100" stop="20190615020500 +0100" channel="RTP3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615020500 +0100" stop="20190615031000 +0100" channel="RTP3">
+    <title lang="pt">Ciclismo: 71ª Edição Critérium du Dauphiné - 6ª Etapa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615031000 +0100" stop="20190615033000 +0100" channel="RTP3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190615033000 +0100" stop="20190615042000 +0100" channel="RTP3">
+    <title lang="pt">Sexta às 9</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E20</episode-num>
+  </programme>
+  <programme start="20190615042000 +0100" stop="20190615043500 +0100" channel="RTP3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615043500 +0100" stop="20190615045000 +0100" channel="RTP3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E5</episode-num>
+  </programme>
+  <programme start="20190615045000 +0100" stop="20190615051000 +0100" channel="RTP3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190615051000 +0100" stop="20190615054000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615054000 +0100" stop="20190615061000 +0100" channel="RTP3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615061000 +0100" stop="20190615063000 +0100" channel="RTP3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615063000 +0100" stop="20190615123000 +0100" channel="RTP3">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615123000 +0100" stop="20190615183000 +0100" channel="RTP3">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615183000 +0100" stop="20190616003000 +0100" channel="RTP3">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609005800 +0100" stop="20190609013700 +0100" channel="TVI24">
+    <title lang="pt">Deus e o Diabo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609013700 +0100" stop="20190609025000 +0100" channel="TVI24">
+    <title lang="pt">Governo Sombra</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609025000 +0100" stop="20190609032000 +0100" channel="TVI24">
+    <title lang="pt">Entre Tantos</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609032000 +0100" stop="20190609033200 +0100" channel="TVI24">
+    <title lang="pt">Ana Leal - Reportagem</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609033200 +0100" stop="20190609043000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609043000 +0100" stop="20190609063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609063000 +0100" stop="20190609064500 +0100" channel="TVI24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609064500 +0100" stop="20190609070000 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609070000 +0100" stop="20190609073000 +0100" channel="TVI24">
+    <title lang="pt">Todos Iguais</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609073000 +0100" stop="20190609074500 +0100" channel="TVI24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609074500 +0100" stop="20190609080000 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190609080000 +0100" stop="20190609090000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609090000 +0100" stop="20190609103000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609103000 +0100" stop="20190609104500 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190609104500 +0100" stop="20190609110000 +0100" channel="TVI24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190609110000 +0100" stop="20190609120000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609120000 +0100" stop="20190609130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609130000 +0100" stop="20190609140000 +0100" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609140000 +0100" stop="20190609153000 +0100" channel="TVI24">
+    <title lang="pt">Governo Sombra</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609153000 +0100" stop="20190609154500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609154500 +0100" stop="20190609160000 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190609160000 +0100" stop="20190609170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609170000 +0100" stop="20190609200000 +0100" channel="TVI24">
+    <title lang="pt">Especial Informação - Pré match: Final da Liga das Nações</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609200000 +0100" stop="20190609214000 +0100" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609214000 +0100" stop="20190609223000 +0100" channel="TVI24">
+    <title lang="pt">Especial Informação - Pós-Match</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609223000 +0100" stop="20190610000000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610000000 +0100" stop="20190610010000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610010000 +0100" stop="20190610013000 +0100" channel="TVI24">
+    <title lang="pt">Gente Que Não Sabe Estar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610013000 +0100" stop="20190610014500 +0100" channel="TVI24">
+    <title lang="pt">Global</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610014500 +0100" stop="20190610020000 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610020000 +0100" stop="20190610021500 +0100" channel="TVI24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610021500 +0100" stop="20190610040000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610040000 +0100" stop="20190610043000 +0100" channel="TVI24">
+    <title lang="pt">Alexandra Borges - Reportagem</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610043000 +0100" stop="20190610063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610063000 +0100" stop="20190610064000 +0100" channel="TVI24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610064000 +0100" stop="20190610072000 +0100" channel="TVI24">
+    <title lang="pt">Repórter TVI</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610072000 +0100" stop="20190610081500 +0100" channel="TVI24">
+    <title lang="pt">Autores</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610081500 +0100" stop="20190610082300 +0100" channel="TVI24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610082300 +0100" stop="20190610083800 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190610083800 +0100" stop="20190610090000 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610090000 +0100" stop="20190610100000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610100000 +0100" stop="20190610110000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610110000 +0100" stop="20190610115500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610115500 +0100" stop="20190610130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610130000 +0100" stop="20190610143000 +0100" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610143000 +0100" stop="20190610164000 +0100" channel="TVI24">
+    <title lang="pt">Especial Informação - Fundação Manuel dos Santos</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610164000 +0100" stop="20190610170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610170000 +0100" stop="20190610180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610180000 +0100" stop="20190610181000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610181000 +0100" stop="20190610190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190610190000 +0100" stop="20190610200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610200000 +0100" stop="20190610210000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610210000 +0100" stop="20190610213700 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610213700 +0100" stop="20190610220700 +0100" channel="TVI24">
+    <title lang="pt">21ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610220700 +0100" stop="20190611001500 +0100" channel="TVI24">
+    <title lang="pt">Prolongamento</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611001500 +0100" stop="20190611010000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611010000 +0100" stop="20190611013900 +0100" channel="TVI24">
+    <title lang="pt">2ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611013900 +0100" stop="20190611020800 +0100" channel="TVI24">
+    <title lang="pt">Gente Que Não Sabe Estar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611020800 +0100" stop="20190611022500 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611022500 +0100" stop="20190611043000 +0100" channel="TVI24">
+    <title lang="pt">Prolongamento</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611043000 +0100" stop="20190611063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611063000 +0100" stop="20190611100000 +0100" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611100000 +0100" stop="20190611110000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611110000 +0100" stop="20190611115500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611115500 +0100" stop="20190611130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611130000 +0100" stop="20190611143000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611143000 +0100" stop="20190611150000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611150000 +0100" stop="20190611160000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611160000 +0100" stop="20190611170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611170000 +0100" stop="20190611180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611180000 +0100" stop="20190611181000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611181000 +0100" stop="20190611190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611190000 +0100" stop="20190611200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611200000 +0100" stop="20190611210000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611210000 +0100" stop="20190611213800 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611213800 +0100" stop="20190611223500 +0100" channel="TVI24">
+    <title lang="pt">Alexandra Borges</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611223500 +0100" stop="20190612001500 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências - Resumo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612001500 +0100" stop="20190612010000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612010000 +0100" stop="20190612013500 +0100" channel="TVI24">
+    <title lang="pt">2ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612013500 +0100" stop="20190612020200 +0100" channel="TVI24">
+    <title lang="pt">Entre Tantos</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612020200 +0100" stop="20190612021700 +0100" channel="TVI24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612021700 +0100" stop="20190612023600 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612023600 +0100" stop="20190612041700 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612041700 +0100" stop="20190612043000 +0100" channel="TVI24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612043000 +0100" stop="20190612063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612063000 +0100" stop="20190612100000 +0100" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612100000 +0100" stop="20190612110000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612110000 +0100" stop="20190612115500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612115500 +0100" stop="20190612130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612130000 +0100" stop="20190612143000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612143000 +0100" stop="20190612150000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612150000 +0100" stop="20190612160000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612160000 +0100" stop="20190612170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612170000 +0100" stop="20190612180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612180000 +0100" stop="20190612181000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612181000 +0100" stop="20190612190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612190000 +0100" stop="20190612200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612200000 +0100" stop="20190612210000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612210000 +0100" stop="20190612213000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612213000 +0100" stop="20190612220000 +0100" channel="TVI24">
+    <title lang="pt">21ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612220000 +0100" stop="20190612230000 +0100" channel="TVI24">
+    <title lang="pt">Circulatura do Quadrado</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612230000 +0100" stop="20190613001500 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613001500 +0100" stop="20190613010000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613010000 +0100" stop="20190613013500 +0100" channel="TVI24">
+    <title lang="pt">2ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613013500 +0100" stop="20190613030000 +0100" channel="TVI24">
+    <title lang="pt">Alexandra Borges</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613030000 +0100" stop="20190613035400 +0100" channel="TVI24">
+    <title lang="pt">Circulatura do Quadrado</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613035400 +0100" stop="20190613043000 +0100" channel="TVI24">
+    <title lang="pt">2ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613043000 +0100" stop="20190613063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613063000 +0100" stop="20190613100000 +0100" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613100000 +0100" stop="20190613110000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613110000 +0100" stop="20190613115500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613115500 +0100" stop="20190613130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613130000 +0100" stop="20190613143000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613143000 +0100" stop="20190613150000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613150000 +0100" stop="20190613160000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613160000 +0100" stop="20190613173000 +0100" channel="TVI24">
+    <title lang="pt">Andebol - Roménia x Portugal</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613173000 +0100" stop="20190613180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613180000 +0100" stop="20190613181000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613181000 +0100" stop="20190613190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613190000 +0100" stop="20190613200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613200000 +0100" stop="20190613205300 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613205300 +0100" stop="20190613212800 +0100" channel="TVI24">
+    <title lang="pt">ECO24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613212800 +0100" stop="20190613223700 +0100" channel="TVI24">
+    <title lang="pt">Ana Leal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613223700 +0100" stop="20190614001500 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614001500 +0100" stop="20190614010000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614010000 +0100" stop="20190614013000 +0100" channel="TVI24">
+    <title lang="pt">2ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614013000 +0100" stop="20190614020000 +0100" channel="TVI24">
+    <title lang="pt">ECO24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614020000 +0100" stop="20190614035700 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614035700 +0100" stop="20190614043000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614043000 +0100" stop="20190614063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614063000 +0100" stop="20190614100000 +0100" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614100000 +0100" stop="20190614110000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614110000 +0100" stop="20190614115500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614115500 +0100" stop="20190614130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614130000 +0100" stop="20190614143000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614143000 +0100" stop="20190614150000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614150000 +0100" stop="20190614160000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614160000 +0100" stop="20190614170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614170000 +0100" stop="20190614180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614180000 +0100" stop="20190614181200 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614181200 +0100" stop="20190614190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614190000 +0100" stop="20190614200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614200000 +0100" stop="20190614210000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614210000 +0100" stop="20190614213000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614213000 +0100" stop="20190614223000 +0100" channel="TVI24">
+    <title lang="pt">Prova dos 9</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614223000 +0100" stop="20190614234000 +0100" channel="TVI24">
+    <title lang="pt">Mais Transferências</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614234000 +0100" stop="20190615010000 +0100" channel="TVI24">
+    <title lang="pt">Governo Sombra</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615010000 +0100" stop="20190615013000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615013000 +0100" stop="20190615023000 +0100" channel="TVI24">
+    <title lang="pt">Ana Leal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615023000 +0100" stop="20190615034500 +0100" channel="TVI24">
+    <title lang="pt">MaisFutebol</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615034500 +0100" stop="20190615040000 +0100" channel="TVI24">
+    <title lang="pt">Ana Leal - Reportagem</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615040000 +0100" stop="20190615043000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615043000 +0100" stop="20190615063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615063000 +0100" stop="20190615070000 +0100" channel="TVI24">
+    <title lang="pt">Todos Iguais</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615070000 +0100" stop="20190615080000 +0100" channel="TVI24">
+    <title lang="pt">Autores</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615080000 +0100" stop="20190615090000 +0100" channel="TVI24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615090000 +0100" stop="20190615103000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615103000 +0100" stop="20190615104500 +0100" channel="TVI24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615104500 +0100" stop="20190615110000 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615110000 +0100" stop="20190615120000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615120000 +0100" stop="20190615130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615130000 +0100" stop="20190615140000 +0100" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615140000 +0100" stop="20190615144500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615144500 +0100" stop="20190615150000 +0100" channel="TVI24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615150000 +0100" stop="20190615153000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615153000 +0100" stop="20190615154500 +0100" channel="TVI24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615154500 +0100" stop="20190615160000 +0100" channel="TVI24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190615160000 +0100" stop="20190615170000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615170000 +0100" stop="20190615180000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615180000 +0100" stop="20190615190000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615190000 +0100" stop="20190615200000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615200000 +0100" stop="20190615210000 +0100" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615210000 +0100" stop="20190615213000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615213000 +0100" stop="20190615220000 +0100" channel="TVI24">
+    <title lang="pt">Entre Tantos - Lobo Antunes</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615220000 +0100" stop="20190616000000 +0100" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609004500 +0100" stop="20190609023000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609023000 +0100" stop="20190609042500 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: A Paixão Turca</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609042500 +0100" stop="20190609054300 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Saudade e Sedução</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190609054300 +0100" stop="20190609060000 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E6</episode-num>
+  </programme>
+  <programme start="20190609060000 +0100" stop="20190609065700 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura Best Of</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E23</episode-num>
+  </programme>
+  <programme start="20190609065700 +0100" stop="20190609100500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609100500 +0100" stop="20190609103000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E18</episode-num>
+  </programme>
+  <programme start="20190609103000 +0100" stop="20190609105700 +0100" channel="CMTV">
+    <title lang="pt">SOS Donos em Apuros</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E3</episode-num>
+  </programme>
+  <programme start="20190609105700 +0100" stop="20190609111000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609111000 +0100" stop="20190609113000 +0100" channel="CMTV">
+    <title lang="pt">Prato da Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E16</episode-num>
+  </programme>
+  <programme start="20190609113000 +0100" stop="20190609115700 +0100" channel="CMTV">
+    <title lang="pt">Cem Maldades</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E3</episode-num>
+  </programme>
+  <programme start="20190609115700 +0100" stop="20190609121000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609121000 +0100" stop="20190609123000 +0100" channel="CMTV">
+    <title lang="pt">Mundo Louco Bichos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E32</episode-num>
+  </programme>
+  <programme start="20190609123000 +0100" stop="20190609145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E160</episode-num>
+  </programme>
+  <programme start="20190609145700 +0100" stop="20190609155700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609155700 +0100" stop="20190609165700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609165700 +0100" stop="20190609175700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609175700 +0100" stop="20190609185700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190609185700 +0100" stop="20190609194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E52</episode-num>
+  </programme>
+  <programme start="20190609194500 +0100" stop="20190609213000 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E160</episode-num>
+  </programme>
+  <programme start="20190609213000 +0100" stop="20190610003000 +0100" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E46</episode-num>
+  </programme>
+  <programme start="20190610003000 +0100" stop="20190610023000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610023000 +0100" stop="20190610032000 +0100" channel="CMTV">
+    <title lang="pt">Ruth</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190610032000 +0100" stop="20190610041000 +0100" channel="CMTV">
+    <title lang="pt">Ruth</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190610041000 +0100" stop="20190610060000 +0100" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E46</episode-num>
+  </programme>
+  <programme start="20190610060000 +0100" stop="20190610090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610090800 +0100" stop="20190610105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E115</episode-num>
+  </programme>
+  <programme start="20190610105700 +0100" stop="20190610113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610113000 +0100" stop="20190610115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E115</episode-num>
+  </programme>
+  <programme start="20190610115700 +0100" stop="20190610123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610123000 +0100" stop="20190610145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E161</episode-num>
+  </programme>
+  <programme start="20190610145700 +0100" stop="20190610151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610151500 +0100" stop="20190610153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E405</episode-num>
+  </programme>
+  <programme start="20190610153000 +0100" stop="20190610155700 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E50</episode-num>
+  </programme>
+  <programme start="20190610155700 +0100" stop="20190610175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190610175500 +0100" stop="20190610185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E29</episode-num>
+  </programme>
+  <programme start="20190610185700 +0100" stop="20190610194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E53</episode-num>
+  </programme>
+  <programme start="20190610194500 +0100" stop="20190610214500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E161</episode-num>
+  </programme>
+  <programme start="20190610214500 +0100" stop="20190611003000 +0100" channel="CMTV">
+    <title lang="pt">Pé em Riste</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E27</episode-num>
+  </programme>
+  <programme start="20190611003000 +0100" stop="20190611013000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E115</episode-num>
+  </programme>
+  <programme start="20190611013000 +0100" stop="20190611022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611022000 +0100" stop="20190611023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E138</episode-num>
+  </programme>
+  <programme start="20190611023000 +0100" stop="20190611040600 +0100" channel="CMTV">
+    <title lang="pt">Poderia Acontecer-Te</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190611040600 +0100" stop="20190611060000 +0100" channel="CMTV">
+    <title lang="pt">Pé em Riste</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E27</episode-num>
+  </programme>
+  <programme start="20190611060000 +0100" stop="20190611090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611090800 +0100" stop="20190611105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E116</episode-num>
+  </programme>
+  <programme start="20190611105700 +0100" stop="20190611113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611113000 +0100" stop="20190611115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E116</episode-num>
+  </programme>
+  <programme start="20190611115700 +0100" stop="20190611123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611123000 +0100" stop="20190611145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E162</episode-num>
+  </programme>
+  <programme start="20190611145700 +0100" stop="20190611151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611151500 +0100" stop="20190611153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E406</episode-num>
+  </programme>
+  <programme start="20190611153000 +0100" stop="20190611155700 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
+  </programme>
+  <programme start="20190611155700 +0100" stop="20190611175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190611175500 +0100" stop="20190611185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E30</episode-num>
+  </programme>
+  <programme start="20190611185700 +0100" stop="20190611194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E54</episode-num>
+  </programme>
+  <programme start="20190611194500 +0100" stop="20190611214500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E162</episode-num>
+  </programme>
+  <programme start="20190611214500 +0100" stop="20190612004000 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612004000 +0100" stop="20190612014000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E116</episode-num>
+  </programme>
+  <programme start="20190612014000 +0100" stop="20190612022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612022000 +0100" stop="20190612023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E139</episode-num>
+  </programme>
+  <programme start="20190612023000 +0100" stop="20190612040500 +0100" channel="CMTV">
+    <title lang="pt">Psicopata Americano</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190612040500 +0100" stop="20190612060000 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612060000 +0100" stop="20190612090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612090800 +0100" stop="20190612105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E117</episode-num>
+  </programme>
+  <programme start="20190612105700 +0100" stop="20190612113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612113000 +0100" stop="20190612115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E117</episode-num>
+  </programme>
+  <programme start="20190612115700 +0100" stop="20190612123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612123000 +0100" stop="20190612145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E163</episode-num>
+  </programme>
+  <programme start="20190612145700 +0100" stop="20190612151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612151500 +0100" stop="20190612153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E407</episode-num>
+  </programme>
+  <programme start="20190612153000 +0100" stop="20190612155700 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E52</episode-num>
+  </programme>
+  <programme start="20190612155700 +0100" stop="20190612175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612175500 +0100" stop="20190612185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E31</episode-num>
+  </programme>
+  <programme start="20190612185700 +0100" stop="20190612194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E55</episode-num>
+  </programme>
+  <programme start="20190612194500 +0100" stop="20190612214500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E163</episode-num>
+  </programme>
+  <programme start="20190612214500 +0100" stop="20190612234400 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612234400 +0100" stop="20190612235300 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190612235300 +0100" stop="20190613005700 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E117</episode-num>
+  </programme>
+  <programme start="20190613005700 +0100" stop="20190613022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613022000 +0100" stop="20190613023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E140</episode-num>
+  </programme>
+  <programme start="20190613023000 +0100" stop="20190613042000 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Instinto Fatal 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190613042000 +0100" stop="20190613043200 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E3</episode-num>
+  </programme>
+  <programme start="20190613043200 +0100" stop="20190613044400 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E4</episode-num>
+  </programme>
+  <programme start="20190613044400 +0100" stop="20190613050000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E17</episode-num>
+  </programme>
+  <programme start="20190613050000 +0100" stop="20190613060000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E117</episode-num>
+  </programme>
+  <programme start="20190613060000 +0100" stop="20190613090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613090800 +0100" stop="20190613105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E118</episode-num>
+  </programme>
+  <programme start="20190613105700 +0100" stop="20190613113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613113000 +0100" stop="20190613115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E118</episode-num>
+  </programme>
+  <programme start="20190613115700 +0100" stop="20190613123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613123000 +0100" stop="20190613145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E164</episode-num>
+  </programme>
+  <programme start="20190613145700 +0100" stop="20190613151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613151500 +0100" stop="20190613153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E408</episode-num>
+  </programme>
+  <programme start="20190613153000 +0100" stop="20190613155700 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E53</episode-num>
+  </programme>
+  <programme start="20190613155700 +0100" stop="20190613175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613175500 +0100" stop="20190613185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E32</episode-num>
+  </programme>
+  <programme start="20190613185700 +0100" stop="20190613194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E56</episode-num>
+  </programme>
+  <programme start="20190613194500 +0100" stop="20190613214500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E164</episode-num>
+  </programme>
+  <programme start="20190613214500 +0100" stop="20190613234400 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613234400 +0100" stop="20190613235300 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190613235300 +0100" stop="20190614005700 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E118</episode-num>
+  </programme>
+  <programme start="20190614005700 +0100" stop="20190614022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614022000 +0100" stop="20190614023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E141</episode-num>
+  </programme>
+  <programme start="20190614023000 +0100" stop="20190614042500 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: A Paixão Turca</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190614042500 +0100" stop="20190614043700 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E5</episode-num>
+  </programme>
+  <programme start="20190614043700 +0100" stop="20190614044900 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E6</episode-num>
+  </programme>
+  <programme start="20190614044900 +0100" stop="20190614050000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E16</episode-num>
+  </programme>
+  <programme start="20190614050000 +0100" stop="20190614060000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E118</episode-num>
+  </programme>
+  <programme start="20190614060000 +0100" stop="20190614090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614090800 +0100" stop="20190614105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E119</episode-num>
+  </programme>
+  <programme start="20190614105700 +0100" stop="20190614113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614113000 +0100" stop="20190614115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E119</episode-num>
+  </programme>
+  <programme start="20190614115700 +0100" stop="20190614123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614123000 +0100" stop="20190614145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E165</episode-num>
+  </programme>
+  <programme start="20190614145700 +0100" stop="20190614151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614151500 +0100" stop="20190614153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E409</episode-num>
+  </programme>
+  <programme start="20190614153000 +0100" stop="20190614155700 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E54</episode-num>
+  </programme>
+  <programme start="20190614155700 +0100" stop="20190614175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614175500 +0100" stop="20190614185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E33</episode-num>
+  </programme>
+  <programme start="20190614185700 +0100" stop="20190614194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E57</episode-num>
+  </programme>
+  <programme start="20190614194500 +0100" stop="20190614214500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E165</episode-num>
+  </programme>
+  <programme start="20190614214500 +0100" stop="20190614234400 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614234400 +0100" stop="20190614235300 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190614235300 +0100" stop="20190615005700 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E119</episode-num>
+  </programme>
+  <programme start="20190615005700 +0100" stop="20190615022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615022000 +0100" stop="20190615023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E142</episode-num>
+  </programme>
+  <programme start="20190615023000 +0100" stop="20190615043500 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Lúcia e o Sexo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190615043500 +0100" stop="20190615044700 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E7</episode-num>
+  </programme>
+  <programme start="20190615044700 +0100" stop="20190615050000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E15</episode-num>
+  </programme>
+  <programme start="20190615050000 +0100" stop="20190615060000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E119</episode-num>
+  </programme>
+  <programme start="20190615060000 +0100" stop="20190615065700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas Best Of</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S19E24</episode-num>
+  </programme>
+  <programme start="20190615065700 +0100" stop="20190615100500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615100500 +0100" stop="20190615102000 +0100" channel="CMTV">
+    <title lang="pt">Hora de Estimação</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E17</episode-num>
+  </programme>
+  <programme start="20190615102000 +0100" stop="20190615104000 +0100" channel="CMTV">
+    <title lang="pt">SOS Donos em Apuros</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E5</episode-num>
+  </programme>
+  <programme start="20190615104000 +0100" stop="20190615105700 +0100" channel="CMTV">
+    <title lang="pt">Mundo Louco Bichos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E33</episode-num>
+  </programme>
+  <programme start="20190615105700 +0100" stop="20190615111000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615111000 +0100" stop="20190615112900 +0100" channel="CMTV">
+    <title lang="pt">Prato da Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E18</episode-num>
+  </programme>
+  <programme start="20190615112900 +0100" stop="20190615114000 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E3</episode-num>
+  </programme>
+  <programme start="20190615114000 +0100" stop="20190615115700 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E19</episode-num>
+  </programme>
+  <programme start="20190615115700 +0100" stop="20190615123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615123000 +0100" stop="20190615125500 +0100" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E143</episode-num>
+  </programme>
+  <programme start="20190615125500 +0100" stop="20190615142900 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E166</episode-num>
+  </programme>
+  <programme start="20190615142900 +0100" stop="20190615145700 +0100" channel="CMTV">
+    <title lang="pt">Separados Pela Vida</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E20</episode-num>
+  </programme>
+  <programme start="20190615145700 +0100" stop="20190615163000 +0100" channel="CMTV">
+    <title lang="pt">Especial Programação</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615163000 +0100" stop="20190615175700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615175700 +0100" stop="20190615185700 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615185700 +0100" stop="20190615194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E58</episode-num>
+  </programme>
+  <programme start="20190615194500 +0100" stop="20190615215700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E166</episode-num>
+  </programme>
+  <programme start="20190615215700 +0100" stop="20190615234500 +0100" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E47</episode-num>
+  </programme>
+  <programme start="20190615234500 +0100" stop="20190616004500 +0100" channel="CMTV">
+    <title lang="pt">Especial CM</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E23</episode-num>
   </programme>
 </tv>
