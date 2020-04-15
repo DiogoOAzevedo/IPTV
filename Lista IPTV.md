@@ -10,7 +10,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 https://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logotipo.pt/wp-content/uploads/2017/02/tvi.jpg" group-title="Generalista",TVI 
-https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8
+https://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Generalista", AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
