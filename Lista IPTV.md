@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?v=3&w=860" group-title="Generalista",RTP 1 
-http://htq.brasilia.me/iptv/ch2100?code=1701341723961808
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?v=3&w=860" group-title="Generalista",RTP 2
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
