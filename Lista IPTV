@@ -1,0 +1,4 @@
+# EXTM3U
+
+# EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-013918101410.png?v=3&w=860" group-title="Entretenimento",RTP MEMORIA 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8 
